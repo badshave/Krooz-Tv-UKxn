@@ -1,0 +1,1325 @@
+
+#EXTINF:-1 tvg-id="EPL01" tvg-name="EPL01: Fulham 12:30 Manchester United 04/11 (EPL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL01: Fulham 12:30 Manchester United 04/11 (EPL)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277421
+#EXTINF:-1 tvg-id="EPL02" tvg-name="EPL02: Brentford 15:00 West Ham United 04/11 (EPL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL02: Brentford 15:00 West Ham United 04/11 (EPL)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277420
+#EXTINF:-1 tvg-id="EPL03" tvg-name="EPL03: Burnley 15:00 Crystal Palace 04/11 (EPL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL03: Burnley 15:00 Crystal Palace 04/11 (EPL)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277419
+#EXTINF:-1 tvg-id="EPL04" tvg-name="EPL04: Everton 15:00 Brighton 04/11 (EPL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL04: Everton 15:00 Brighton 04/11 (EPL)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277418
+#EXTINF:-1 tvg-id="EPL05" tvg-name="EPL05: Manchester City 15:00 Bournemouth 04/11 (EPL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL05: Manchester City 15:00 Bournemouth 04/11 (EPL)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277417
+#EXTINF:-1 tvg-id="EPL06" tvg-name="EPL06: Sheffield United 15:00 Wolves 04/11 (EPL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL06: Sheffield United 15:00 Wolves 04/11 (EPL)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277416
+#EXTINF:-1 tvg-id="EPL07" tvg-name="EPL07: Newcastle 17:30 Arsenal 04/11 (EPL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL07: Newcastle 17:30 Arsenal 04/11 (EPL)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277415
+#EXTINF:-1 tvg-id="EPL08" tvg-name="EPL08: Nottingham Forest 14:00 Aston Villa 05/11 (EPL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL08: Nottingham Forest 14:00 Aston Villa 05/11 (EPL)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277414
+#EXTINF:-1 tvg-id="EPL09" tvg-name="EPL09: Luton T 16:30 Liverpool 05/11 (EPL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL09: Luton T 16:30 Liverpool 05/11 (EPL)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277413
+#EXTINF:-1 tvg-id="EPL10" tvg-name="EPL10: Tottenham 20:00 Chelsea 06/11 (EPL)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL10: Tottenham 20:00 Chelsea 06/11 (EPL)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277412
+#EXTINF:-1 tvg-id="EPL18" tvg-name="EPL11: 4K EPL GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL11: 4K EPL GAMES
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277411
+#EXTINF:-1 tvg-id="" tvg-name="EPL12:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL12:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277410
+#EXTINF:-1 tvg-id="" tvg-name="EPL13:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL13:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277409
+#EXTINF:-1 tvg-id="" tvg-name="EPL14:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL14:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277408
+#EXTINF:-1 tvg-id="" tvg-name="EPL15:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL15:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277407
+#EXTINF:-1 tvg-id="EPL16" tvg-name="EPL16:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL16:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277406
+#EXTINF:-1 tvg-id="" tvg-name="EPL17:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL17:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277405
+#EXTINF:-1 tvg-id="" tvg-name="EPL18:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL18:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277404
+#EXTINF:-1 tvg-id="" tvg-name="EPL19:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL19:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277403
+#EXTINF:-1 tvg-id="" tvg-name="EPL20:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL20:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277402
+#EXTINF:-1 tvg-id="" tvg-name="EPL21:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/205px-Premier_League_Logo.svg.png" group-title="LIVE | EPL",EPL21:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277401
+#EXTINF:-1 tvg-id="" tvg-name="AFC Bournemouth" tvg-logo="http://www.logofootball.net/wp-content/uploads/2022/09/AFC-Bournemout-Logo-1536x1536.png" group-title="LIVE | EPL",AFC Bournemouth
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277400
+#EXTINF:-1 tvg-id="" tvg-name="Fulham FC" tvg-logo="https://brandlogos.net/wp-content/uploads/2014/10/fulham-fc-logo.png" group-title="LIVE | EPL",Fulham FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277399
+#EXTINF:-1 tvg-id="" tvg-name="Nottingham Forest FC" tvg-logo="https://www.logofootball.net/wp-content/uploads/Nottingham-Forest-FC-HD-Logo.png" group-title="LIVE | EPL",Nottingham Forest FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277398
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/160px-Arsenal_FC.svg.png" group-title="LIVE | EPL",Arsenal FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277397
+#EXTINF:-1 tvg-id="" tvg-name="Aston Villa FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Aston_Villa_FC_crest_%282016%29.svg/130px-Aston_Villa_FC_crest_%282016%29.svg.png" group-title="LIVE | EPL",Aston Villa FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277396
+#EXTINF:-1 tvg-id="" tvg-name="Brentford FC " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/180px-Brentford_FC_crest.svg.png" group-title="LIVE | EPL",Brentford FC 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277395
+#EXTINF:-1 tvg-id="" tvg-name="Brighton & Hove Albion FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/200px-Brighton_%26_Hove_Albion_logo.svg.png" group-title="LIVE | EPL",Brighton & Hove Albion FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277394
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/180px-Chelsea_FC.svg.png" group-title="LIVE | EPL",Chelsea FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277393
+#EXTINF:-1 tvg-id="" tvg-name="Crystal Palace FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Crystal_Palace_FC_logo.svg/160px-Crystal_Palace_FC_logo.svg.png" group-title="LIVE | EPL",Crystal Palace FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277392
+#EXTINF:-1 tvg-id="" tvg-name="Everton FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/180px-Everton_FC_logo.svg.png" group-title="LIVE | EPL",Everton FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277391
+#EXTINF:-1 tvg-id="" tvg-name="Burnley FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Burnley_F.C._Logo.svg/150px-Burnley_F.C._Logo.svg.png" group-title="LIVE | EPL",Burnley FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277390
+#EXTINF:-1 tvg-id="" tvg-name="Luton Town FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/LutonTownFC2009.png/180px-LutonTownFC2009.png" group-title="LIVE | EPL",Luton Town FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277389
+#EXTINF:-1 tvg-id="" tvg-name="Liverpool FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/170px-Liverpool_FC.svg.png" group-title="LIVE | EPL",Liverpool FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277388
+#EXTINF:-1 tvg-id="" tvg-name="Manchester City FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/180px-Manchester_City_FC_badge.svg.png" group-title="LIVE | EPL",Manchester City FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277387
+#EXTINF:-1 tvg-id="" tvg-name="Manchester United FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/180px-Manchester_United_FC_crest.svg.png" group-title="LIVE | EPL",Manchester United FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277386
+#EXTINF:-1 tvg-id="" tvg-name="Newcastle United FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/200px-Newcastle_United_Logo.svg.png" group-title="LIVE | EPL",Newcastle United FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277385
+#EXTINF:-1 tvg-id="" tvg-name="Sheffield United FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/180px-Sheffield_United_FC_logo.svg.png" group-title="LIVE | EPL",Sheffield United FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277384
+#EXTINF:-1 tvg-id="" tvg-name="Tottenham Hotspur FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/110px-Tottenham_Hotspur.svg.png" group-title="LIVE | EPL",Tottenham Hotspur FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277383
+#EXTINF:-1 tvg-id="" tvg-name="West Ham FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/160px-West_Ham_United_FC_logo.svg.png" group-title="LIVE | EPL",West Ham FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277382
+#EXTINF:-1 tvg-id="" tvg-name="Wolves FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wolverhampton_Wanderers.svg/180px-Wolverhampton_Wanderers.svg.png" group-title="LIVE | EPL",Wolves FC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277381
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS FHD" tvg-logo="https://media.info/i/lf/300/1563228142/1043.png" group-title="UK | NEWS",UK: BBC NEWS FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277195
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC News" tvg-logo="https://media.info/i/lf/300/1563228142/1043.png" group-title="UK | NEWS",UK: BBC News
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277194
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/350px-CNN.svg.png" group-title="UK | NEWS",UK: CNN UK
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277193
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK: Euronews" tvg-logo="https://media.info/i/lf/300/1464660043/1064.png" group-title="UK | NEWS",UK: Euronews
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277192
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="UK: London Live" tvg-logo="https://media.info/i/lf/300/1491214623/1532.png" group-title="UK | NEWS",UK: London Live
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277191
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: Sky News HD" tvg-logo="https://media.info/i/lf/300/1516128705/1083.png" group-title="UK | NEWS",UK: Sky News HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277190
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: Sky News" tvg-logo="https://media.info/i/lf/300/1516128705/1083.png" group-title="UK | NEWS",UK: Sky News
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277189
+#EXTINF:-1 tvg-id="dunyanews.uk" tvg-name="UK: Dunya News" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/01/DUNYA-TV.png" group-title="UK | NEWS",UK: Dunya News
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277188
+#EXTINF:-1 tvg-id="france24.uk" tvg-name="UK: FRANCE 24 FHD" tvg-logo="https://media.info/i/lf/300/1443114332/1417.png" group-title="UK | NEWS",UK: FRANCE 24 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277187
+#EXTINF:-1 tvg-id="geonews.uk" tvg-name="UK: GEO News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="UK | NEWS",UK: GEO News
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277186
+#EXTINF:-1 tvg-id="RTENewsNow.ie" tvg-name="UK: IRE  RTE News" tvg-logo="" group-title="UK | NEWS",UK: IRE  RTE News
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277185
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK: CNBC HD" tvg-logo="" group-title="UK | NEWS",UK: CNBC HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277184
+#EXTINF:-1 tvg-id="pbsamerica.uk" tvg-name="UK: PBS America" tvg-logo="" group-title="UK | NEWS",UK: PBS America
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277183
+#EXTINF:-1 tvg-id="gbnews.uk" tvg-name="UK: GB News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Gbnews.png" group-title="UK | NEWS",UK: GB News
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277182
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/350px-CNN.svg.png" group-title="UK | NEWS",UK: CNN HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277181
+#EXTINF:-1 tvg-id="trtworld.uk" tvg-name="UK: TRT World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logosu.png/800px-TRT_World_logosu.png" group-title="UK | NEWS",UK: TRT World HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277180
+#EXTINF:-1 tvg-id="russiatoday.za" tvg-name="UK: Russia Today HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" group-title="UK | NEWS",UK: Russia Today HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277179
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: Sky News FHD" tvg-logo="https://media.info/i/lf/300/1516128705/1083.png" group-title="UK | NEWS",UK: Sky News FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277178
+#EXTINF:-1 tvg-id="france24.uk" tvg-name="UK: France 24 HD" tvg-logo="https://media.info/i/lf/300/1443114332/1417.png" group-title="UK | NEWS",UK: France 24 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277177
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK: Bloomberg HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Bloomberglogo.png" group-title="UK | NEWS",UK: Bloomberg HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277176
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/300px-BBC_News_2019.svg.png" group-title="UK | NEWS",UK: BBC News HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277175
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK: Al Jazeera HD" tvg-logo="https://media.info/i/lf/300/1498365190/6719.png" group-title="UK | NEWS",UK: Al Jazeera HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277174
+#EXTINF:-1 tvg-id="" tvg-name="INFO WARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Infowars_logo.png" group-title="UK | NEWS",INFO WARS
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277173
+#EXTINF:-1 tvg-id="talktv.uk" tvg-name="UK: Talk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/TalkTV_logo.png/220px-TalkTV_logo.png" group-title="UK | NEWS",UK: Talk TV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277172
+#EXTINF:-1 tvg-id="courttv.uk" tvg-name="UK: Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" group-title="UK | NEWS",UK: Court TV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277171
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hum Europe" tvg-logo="" group-title="UK | NEWS",UK: Hum Europe
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277170
+#EXTINF:-1 tvg-id="4Music" tvg-name="UK: 4 Extra (4Music)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/175px-4Music_logo_2018.svg.png" group-title="UK | MUSIC",UK: 4 Extra (4Music)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277169
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK: 4 Music (Box Hits)" tvg-logo="https://media.info/i/lf/300/1464128411/1149.png" group-title="UK | MUSIC",UK: 4 Music (Box Hits)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277168
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="UK: Clubland TV" tvg-logo="https://media.info/i/lf/300/1533856513/1445.png" group-title="UK | MUSIC",UK: Clubland TV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277167
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="UK: Kerrang!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Kerrang%21_TV_logo_2001.svg/440px-Kerrang%21_TV_logo_2001.svg.png" group-title="UK | MUSIC",UK: Kerrang!
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277166
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="UK: KISS" tvg-logo="https://media.info/i/lf/300/1464128824/1137.png" group-title="UK | MUSIC",UK: KISS
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277165
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="UK: Magic" tvg-logo="https://media.info/i/lf/300/1410437430/1156.png" group-title="UK | MUSIC",UK: Magic
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277164
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK: MTV Base" tvg-logo="https://media.info/i/lf/300/1508556463/1100.png" group-title="UK | MUSIC",UK: MTV Base
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277163
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK: MTV Classic" tvg-logo="https://media.info/i/lf/300/1508556416/1102.png" group-title="UK | MUSIC",UK: MTV Classic
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277162
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK: MTV HITS" tvg-logo="https://media.info/i/lf/300/1508556277/1101.png" group-title="UK | MUSIC",UK: MTV HITS
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277161
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="UK: MTV MUSIC" tvg-logo="https://media.info/i/lf/300/1508556077/1432.png" group-title="UK | MUSIC",UK: MTV MUSIC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277160
+#EXTINF:-1 tvg-id="now90s.uk" tvg-name="UK: NOW 90s" tvg-logo="https://media.info/i/lf/300/1515881263/6367.png" group-title="UK | MUSIC",UK: NOW 90s
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277159
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="UK: NOW 80s" tvg-logo="https://media.info/i/lf/300/1487529852/1546.png" group-title="UK | MUSIC",UK: NOW 80s
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277158
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: Trace Vault" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TRACE_Vault_Logo.png/800px-TRACE_Vault_Logo.png" group-title="UK | MUSIC",UK: Trace Vault
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277157
+#EXTINF:-1 tvg-id="tracehits.uk" tvg-name="UK: Trace hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1920px-Trace_Urban_logo_2010.svg.png" group-title="UK | MUSIC",UK: Trace hits
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277156
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK: MTV HD" tvg-logo="https://media.info/i/lf/300/1508544944/1075.png" group-title="UK | MUSIC",UK: MTV HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277155
+#EXTINF:-1 tvg-id="" tvg-name="UK: Boxmas" tvg-logo="" group-title="UK | MUSIC",UK: Boxmas
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277154
+#EXTINF:-1 tvg-id="" tvg-name="UK: Music & Memories" tvg-logo="" group-title="UK | MUSIC",UK: Music & Memories
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277153
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK: BabyTV" tvg-logo="https://media.info/i/lf/300/1407878963/1469.png" group-title="UK | KIDS",UK: BabyTV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277152
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK: Boomerang" tvg-logo="https://media.info/i/lf/300/1425772347/1138.png" group-title="UK | KIDS",UK: Boomerang
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277151
+#EXTINF:-1 tvg-id="boomerangplus1.uk" tvg-name="UK: Boomerang+1" tvg-logo="https://media.info/i/lf/300/1425772347/1138.png" group-title="UK | KIDS",UK: Boomerang+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277150
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK: Boomerang FHD" tvg-logo="https://media.info/i/lf/300/1425772347/1138.png" group-title="UK | KIDS",UK: Boomerang FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277149
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: Cartoon Network FHD" tvg-logo="https://media.info/i/lf/300/1442766350/1050.png" group-title="UK | KIDS",UK: Cartoon Network FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277148
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: Cartoon Network" tvg-logo="https://media.info/i/lf/300/1442766350/1050.png" group-title="UK | KIDS",UK: Cartoon Network
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277147
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK: Cartoonito" tvg-logo="https://media.info/i/lf/300/1405279681/1467.png" group-title="UK | KIDS",UK: Cartoonito
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277146
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK: CBBC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/400px-CBBC_2016_logo.svg.png" group-title="UK | KIDS",UK: CBBC FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277145
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: CBeebies FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/500px-CBeebies.svg.png" group-title="UK | KIDS",UK: CBeebies FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277144
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK: Nick Jr. FHD" tvg-logo="https://media.info/i/lf/300/1508639022/1111.png" group-title="UK | KIDS",UK: Nick Jr. FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277143
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK: Nick Jr." tvg-logo="https://media.info/i/lf/300/1508639022/1111.png" group-title="UK | KIDS",UK: Nick Jr.
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277142
+#EXTINF:-1 tvg-id="nickjuniorplus1.uk" tvg-name="UK: Nick Jr. +1" tvg-logo="https://media.info/i/lf/300/1508639022/1111.png" group-title="UK | KIDS",UK: Nick Jr. +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277141
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="UK: Nick  Jr. Too" tvg-logo="https://media.info/i/lf/300/1433946851/1443.png" group-title="UK | KIDS",UK: Nick  Jr. Too
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277140
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: Nickelodeon FHD" tvg-logo="https://media.info/i/lf/300/1508637275/1033.png" group-title="UK | KIDS",UK: Nickelodeon FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277139
+#EXTINF:-1 tvg-id="nickelodeonplus1.uk" tvg-name="UK: Nickelodeon +1" tvg-logo="https://media.info/i/lf/300/1508637275/1033.png" group-title="UK | KIDS",UK: Nickelodeon +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277138
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: Nickelodeon" tvg-logo="https://media.info/i/lf/300/1508637275/1033.png" group-title="UK | KIDS",UK: Nickelodeon
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277137
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="UK: Nicktoons" tvg-logo="https://media.info/i/lf/300/1405279210/1159.png" group-title="UK | KIDS",UK: Nicktoons
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277136
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK: POP" tvg-logo="https://media.info/i/lf/300/1405279333/1208.png" group-title="UK | KIDS",UK: POP
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277135
+#EXTINF:-1 tvg-id="popplus1.uk" tvg-name="UK: POP+1" tvg-logo="https://media.info/i/lf/300/1405279333/1208.png" group-title="UK | KIDS",UK: POP+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277134
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="UK: POP Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pop-max-logo.png/220px-Pop-max-logo.png" group-title="UK | KIDS",UK: POP Max
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277133
+#EXTINF:-1 tvg-id="popplus1.uk" tvg-name="UK: POP Max+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pop-max-logo.png/220px-Pop-max-logo.png" group-title="UK | KIDS",UK: POP Max+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277132
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK: Tiny Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/New_Tiny_Pop_Logo_2018.png/220px-New_Tiny_Pop_Logo_2018.png" group-title="UK | KIDS",UK: Tiny Pop
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277131
+#EXTINF:-1 tvg-id="tinypopplus1.uk" tvg-name="UK: Tiny Pop+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/New_Tiny_Pop_Logo_2018.png/220px-New_Tiny_Pop_Logo_2018.png" group-title="UK | KIDS",UK: Tiny Pop+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277130
+#EXTINF:-1 tvg-id="" tvg-name="Youtube test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/502px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="UK | KIDS",Youtube test
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277129
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK: CBBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/400px-CBBC_2016_logo.svg.png" group-title="UK | KIDS",UK: CBBC HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277128
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: CBeebies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/500px-CBeebies.svg.png" group-title="UK | KIDS",UK: CBeebies HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277127
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="UK | KIDS",UK: Cartoon Network HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277126
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/500px-Nick_HD_Logo.svg.png" group-title="UK | KIDS",UK: Nick HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277125
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK: Boomerang HD" tvg-logo="https://media.info/i/lf/300/1425772347/1138.png" group-title="UK | KIDS",UK: Boomerang HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277124
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK: Nick Jr HD" tvg-logo="https://media.info/i/lf/300/1508639022/1111.png" group-title="UK | KIDS",UK: Nick Jr HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277123
+#EXTINF:-1 tvg-id="RTEJRTV" tvg-name="UK: RTE jr" tvg-logo="" group-title="UK | KIDS",UK: RTE jr
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277122
+#EXTINF:-1 tvg-id="cartoonnetworkplus1.uk" tvg-name="UK: Cartoon Network +1" tvg-logo="" group-title="UK | KIDS",UK: Cartoon Network +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277121
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="UK: Sky Kids FHD" tvg-logo="https://venturethree.com/assets/_fullWidth/Sky-Kids-Character-Lock-Up.jpg" group-title="UK | KIDS",UK: Sky Kids FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277120
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="UK: Sky Kids HD" tvg-logo="https://venturethree.com/assets/_fullWidth/Sky-Kids-Character-Lock-Up.jpg" group-title="UK | KIDS",UK: Sky Kids HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277119
+#EXTINF:-1 tvg-id="skykids.uk" tvg-name="UK: Sky Kids SD" tvg-logo="https://venturethree.com/assets/_fullWidth/Sky-Kids-Character-Lock-Up.jpg" group-title="UK | KIDS",UK: Sky Kids SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277118
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK: Animal Planet" tvg-logo="https://media.info/i/lf/300/1405279091/1040.png" group-title="UK | DOCUMENTARIES",UK: Animal Planet
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277117
+#EXTINF:-1 tvg-id="animalplanetplus1.uk" tvg-name="UK: Animal Planet +1" tvg-logo="https://media.info/i/lf/300/1405279091/1040.png" group-title="UK | DOCUMENTARIES",UK: Animal Planet +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277116
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK: Crime & Investigation FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="UK | DOCUMENTARIES",UK: Crime & Investigation FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277115
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: Discovery FHD" tvg-logo="https://media.info/i/lf/300/1568975020/1057.png" group-title="UK | DOCUMENTARIES",UK: Discovery FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277114
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: Discovery" tvg-logo="https://media.info/i/lf/300/1568975020/1057.png" group-title="UK | DOCUMENTARIES",UK: Discovery
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277113
+#EXTINF:-1 tvg-id="discoverychannelplus1.uk" tvg-name="UK: Discovery+1" tvg-logo="https://media.info/i/lf/300/1568975020/1057.png" group-title="UK | DOCUMENTARIES",UK: Discovery+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277112
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK: Disc.History" tvg-logo="https://media.info/i/lf/300/1405279112/1060.png" group-title="UK | DOCUMENTARIES",UK: Disc.History
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277111
+#EXTINF:-1 tvg-id="discoveryhistoryplus1.uk" tvg-name="UK: Disc.History+1" tvg-logo="https://media.info/i/lf/300/1405279112/1060.png" group-title="UK | DOCUMENTARIES",UK: Disc.History+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277110
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK: Disc.Science" tvg-logo="https://media.info/i/lf/300/1405279113/1061.png" group-title="UK | DOCUMENTARIES",UK: Disc.Science
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277109
+#EXTINF:-1 tvg-id="discoveryscienceplus1.uk" tvg-name="UK: Disc.Sci+1" tvg-logo="https://media.info/i/lf/300/1405279113/1061.png" group-title="UK | DOCUMENTARIES",UK: Disc.Sci+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277108
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK: Disc.Turbo" tvg-logo="https://media.info/i/lf/300/1405279173/1121.png" group-title="UK | DOCUMENTARIES",UK: Disc.Turbo
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277107
+#EXTINF:-1 tvg-id="discoveryturboplus1.uk" tvg-name="UK: Disc.Turbo+1" tvg-logo="https://media.info/i/lf/300/1405279173/1121.png" group-title="UK | DOCUMENTARIES",UK: Disc.Turbo+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277106
+#EXTINF:-1 tvg-id="foodnetworkplus1.uk" tvg-name="UK: Food Network" tvg-logo="https://media.info/i/lf/300/1406762336/1509.png" group-title="UK | DOCUMENTARIES",UK: Food Network
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277105
+#EXTINF:-1 tvg-id="foodnetworkplus1.uk" tvg-name="UK: Food Network+1" tvg-logo="https://media.info/i/lf/300/1406762336/1509.png" group-title="UK | DOCUMENTARIES",UK: Food Network+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277104
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK: Investigation Discovery" tvg-logo="https://media.info/i/lf/300/1605462535/1486.png" group-title="UK | DOCUMENTARIES",UK: Investigation Discovery
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277103
+#EXTINF:-1 tvg-id="investigationdiscoveryplus1.uk" tvg-name="UK: Investigation Discovery +1" tvg-logo="https://media.info/i/lf/300/1605462535/1486.png" group-title="UK | DOCUMENTARIES",UK: Investigation Discovery +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277102
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: Nat Geo FHD" tvg-logo="https://media.info/i/lf/300/1405279128/1077.png" group-title="UK | DOCUMENTARIES",UK: Nat Geo FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277101
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: Nat Geo Wild FHD" tvg-logo="https://media.info/i/lf/300/1405279177/1125.png" group-title="UK | DOCUMENTARIES",UK: Nat Geo Wild FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277100
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: Nat Geo Wild" tvg-logo="https://media.info/i/lf/300/1405279177/1125.png" group-title="UK | DOCUMENTARIES",UK: Nat Geo Wild
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277099
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: Nat Geo" tvg-logo="https://media.info/i/lf/300/1405279128/1077.png" group-title="UK | DOCUMENTARIES",UK: Nat Geo
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277098
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK: Sky Crime FHD" tvg-logo="https://media.info/i/lf/300/1592346849/1348.png" group-title="UK | DOCUMENTARIES",UK: Sky Crime FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277097
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK: Sky Crime" tvg-logo="https://media.info/i/lf/300/1592346849/1348.png" group-title="UK | DOCUMENTARIES",UK: Sky Crime
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277096
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK: Sky Documentries FHD" tvg-logo="https://media.info/i/lf/300/1590584669/7352.png" group-title="UK | DOCUMENTARIES",UK: Sky Documentries FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277095
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="UK: Sky History FHD" tvg-logo="https://media.info/i/lf/300/1590582252/1069.png" group-title="UK | DOCUMENTARIES",UK: Sky History FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277094
+#EXTINF:-1 tvg-id="skyhistory2.uk" tvg-name="UK: Sky History 2 FHD" tvg-logo="https://media.info/i/lf/300/1590582088/1528.png" group-title="UK | DOCUMENTARIES",UK: Sky History 2 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277093
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK: Sky Nature FHD" tvg-logo="https://media.info/i/lf/300/1593556643/7351.png" group-title="UK | DOCUMENTARIES",UK: Sky Nature FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277092
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK: Sky Crime HD" tvg-logo="https://media.info/i/lf/300/1592346849/1348.png" group-title="UK | DOCUMENTARIES",UK: Sky Crime HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277091
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK: Crime & Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="UK | DOCUMENTARIES",UK: Crime & Investigation HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277090
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: Discovery HD" tvg-logo="https://media.info/i/lf/300/1568975020/1057.png" group-title="UK | DOCUMENTARIES",UK: Discovery HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277089
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: Nat Geo HD" tvg-logo="https://media.info/i/lf/300/1405279128/1077.png" group-title="UK | DOCUMENTARIES",UK: Nat Geo HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277088
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: Nat Geo Wild HD" tvg-logo="https://media.info/i/lf/300/1405279177/1125.png" group-title="UK | DOCUMENTARIES",UK: Nat Geo Wild HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277087
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK: Sky Documentaries HD" tvg-logo="https://media.info/i/lf/300/1590584669/7352.png" group-title="UK | DOCUMENTARIES",UK: Sky Documentaries HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277086
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK: History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/571px-History_Logo.svg.png" group-title="UK | DOCUMENTARIES",UK: History HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277085
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK: History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/571px-History_Logo.svg.png" group-title="UK | DOCUMENTARIES",UK: History 2 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277084
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK: Sky Nature HD" tvg-logo="https://media.info/i/lf/300/1593556643/7351.png" group-title="UK | DOCUMENTARIES",UK: Sky Nature HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277083
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: 7News Spotlight" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: 7News Spotlight
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277082
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: All Documentary" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: All Documentary
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277081
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Discovery" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Discovery
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277080
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: DW Documentary" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: DW Documentary
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277079
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Free Documentary Anilams" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Free Documentary Anilams
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277078
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Free Documentary" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Free Documentary
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277077
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Frontline PBS" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Frontline PBS
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277076
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Independent POV" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Independent POV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277075
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Nat Geo Wild" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Nat Geo Wild
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277074
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Nat Geo" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Nat Geo
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277073
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Netflix" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Netflix
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277072
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Real Crime" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Real Crime
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277071
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Real Stories" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Real Stories
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277070
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Real Wild" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Real Wild
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277069
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: Retold" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: Retold
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277068
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docubox: The Life Guide" tvg-logo="http://xplatinmedia.com:8080/images/db882431ed2a21f95c34f9b9450cabd0.png" group-title="UK | DOCUMENTARIES",UK: Docubox: The Life Guide
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277067
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK: Sky Cinema Premier FHD" tvg-logo="https://media.info/i/lf/300/1592347770/1081.png" group-title="UK | MOVIES",UK: Sky Cinema Premier FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277005
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: Sky Cinema Action FHD" tvg-logo="https://media.info/i/lf/300/1592347069/1419.png" group-title="UK | MOVIES",UK: Sky Cinema Action FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277004
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK: Sky Cinema Animation FHD" tvg-logo="https://media.info/i/lf/300/1598063422/7361.png" group-title="UK | MOVIES",UK: Sky Cinema Animation FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277003
+#EXTINF:-1 tvg-id="skycomedyhd.uk" tvg-name="UK: Sky Cinema Comedy FHD" tvg-logo="https://media.info/i/lf/300/1592347338/1085.png" group-title="UK | MOVIES",UK: Sky Cinema Comedy FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277002
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK: Sky Cinema Drama/Christmas FHD" tvg-logo="https://media.info/i/lf/300/1592347504/1425.png" group-title="UK | MOVIES",UK: Sky Cinema Drama/Christmas FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277001
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family FHD" tvg-logo="https://media.info/i/lf/300/1592347581/1420.png" group-title="UK | MOVIES",UK: Sky Cinema Family FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277000
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats FHD" tvg-logo="https://media.info/i/lf/300/1592347630/1424.png" group-title="UK | MOVIES",UK: Sky Cinema Greats FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276999
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits FHD" tvg-logo="https://media.info/i/lf/300/1592347700/1438.png" group-title="UK | MOVIES",UK: Sky Cinema Hits FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276998
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK: Sky Cinema ScFi/Hor FHD" tvg-logo="https://media.info/i/lf/300/1592347836/1421.png" group-title="UK | MOVIES",UK: Sky Cinema ScFi/Hor FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276997
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK: Sky Cinema Select/5 Star Movies FHD" tvg-logo="https://media.info/i/lf/300/1592347895/1423.png" group-title="UK | MOVIES",UK: Sky Cinema Select/5 Star Movies FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276996
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK: Sky Cinema Thriller FHD" tvg-logo="https://media.info/i/lf/300/1592347428/1439.png" group-title="UK | MOVIES",UK: Sky Cinema Thriller FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276995
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK: Sky Cinema Premier SD" tvg-logo="https://media.info/i/lf/300/1592347770/1081.png" group-title="UK | MOVIES",UK: Sky Cinema Premier SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276994
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: Sky Cinema Action SD" tvg-logo="https://media.info/i/lf/300/1592347069/1419.png" group-title="UK | MOVIES",UK: Sky Cinema Action SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276993
+#EXTINF:-1 tvg-id="skycomedyhd.uk" tvg-name="UK: Sky Cinema Comedy SD" tvg-logo="https://media.info/i/lf/300/1592347338/1085.png" group-title="UK | MOVIES",UK: Sky Cinema Comedy SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276992
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK: Sky Cinema Christmas SD" tvg-logo="https://media.info/i/lf/300/1592347504/1425.png" group-title="UK | MOVIES",UK: Sky Cinema Christmas SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276991
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family SD" tvg-logo="https://media.info/i/lf/300/1592347581/1420.png" group-title="UK | MOVIES",UK: Sky Cinema Family SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276990
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats SD" tvg-logo="https://media.info/i/lf/300/1592347630/1424.png" group-title="UK | MOVIES",UK: Sky Cinema Greats SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276989
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits SD" tvg-logo="https://media.info/i/lf/300/1592347700/1438.png" group-title="UK | MOVIES",UK: Sky Cinema Hits SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276988
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK: Sky Cinema Sci-fi / Horror SD" tvg-logo="https://media.info/i/lf/300/1592347836/1421.png" group-title="UK | MOVIES",UK: Sky Cinema Sci-fi / Horror SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276987
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK: Sky Cinema 5 Star Movies SD" tvg-logo="https://media.info/i/lf/300/1592347895/1423.png" group-title="UK | MOVIES",UK: Sky Cinema 5 Star Movies SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276986
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK: Sky Cinema Thriller SD" tvg-logo="https://media.info/i/lf/300/1592347428/1439.png" group-title="UK | MOVIES",UK: Sky Cinema Thriller SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276985
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK: Sky Cinema Animation SD" tvg-logo="https://media.info/i/lf/300/1598063422/7361.png" group-title="UK | MOVIES",UK: Sky Cinema Animation SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276984
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK: Sky Cinema Animation HD" tvg-logo="https://media.info/i/lf/300/1598063422/7361.png" group-title="UK | MOVIES",UK: Sky Cinema Animation HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276983
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK: Sky Cinema Premier HD" tvg-logo="https://media.info/i/lf/300/1592347770/1081.png" group-title="UK | MOVIES",UK: Sky Cinema Premier HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276982
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits HD" tvg-logo="https://media.info/i/lf/300/1592347700/1438.png" group-title="UK | MOVIES",UK: Sky Cinema Hits HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276981
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="https://media.info/i/lf/300/1592347630/1424.png" group-title="UK | MOVIES",UK: Sky Cinema Greats HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276980
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family HD" tvg-logo="https://media.info/i/lf/300/1592347581/1420.png" group-title="UK | MOVIES",UK: Sky Cinema Family HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276979
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: Sky Cinema Action HD" tvg-logo="https://media.info/i/lf/300/1592347069/1419.png" group-title="UK | MOVIES",UK: Sky Cinema Action HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276978
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="https://media.info/i/lf/300/1592347338/1085.png" group-title="UK | MOVIES",UK: Sky Cinema Comedy HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276977
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK: Sky Cinema Thriller HD" tvg-logo="https://media.info/i/lf/300/1592347428/1439.png" group-title="UK | MOVIES",UK: Sky Cinema Thriller HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276976
+#EXTINF:-1 tvg-id="SCINDRH" tvg-name="UK: Sky Cinema Christmas HD" tvg-logo="https://media.info/i/lf/300/1592347504/1425.png" group-title="UK | MOVIES",UK: Sky Cinema Christmas HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276975
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK: Sky Cinema Syfy & Horror HD" tvg-logo="https://media.info/i/lf/300/1592347836/1421.png" group-title="UK | MOVIES",UK: Sky Cinema Syfy & Horror HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276974
+#EXTINF:-1 tvg-id="SCINSEH" tvg-name="UK: Sky Cinema 5 Star Movies HD" tvg-logo="https://media.info/i/lf/300/1592347895/1423.png" group-title="UK | MOVIES",UK: Sky Cinema 5 Star Movies HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276973
+#EXTINF:-1 tvg-id="movies24.uk" tvg-name="UK: Movies24" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/Movies24-250.png" group-title="UK | MOVIES",UK: Movies24
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276972
+#EXTINF:-1 tvg-id="movies24plus.uk" tvg-name="UK: Movies24 +1" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/Movies24-250.png" group-title="UK | MOVIES",UK: Movies24 +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276971
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Action FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Action FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276970
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Animation FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Animation FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276969
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Blockbuster FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Blockbuster FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276968
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Classics FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Classics FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276967
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Comedy FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Comedy FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276966
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Cult FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Cult FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276965
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Family FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Family FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276964
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Greats FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Greats FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276963
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Hits FH" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Hits FH
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276962
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Horror FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Horror FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276961
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Musical FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Musical FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276960
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Mystery FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Mystery FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276959
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Premiere FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Premiere FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276958
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Romance FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Romance FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276957
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Sci-Fi FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Sci-Fi FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276956
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Thriller FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Thriller FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276955
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cinebox Western FHD" tvg-logo="http://xplatinmedia.com:8080/images/5a7fa8f713b342e18ec780653da98266.png" group-title="UK | MOVIES",UK: Cinebox Western FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276954
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena FHD 50fps" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="UK | SPORTS",UK: Sky Sports Arena FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276933
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena HD" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="UK | SPORTS",UK: Sky Sports Arena HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276932
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena SD" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="UK | SPORTS",UK: Sky Sports Arena SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276931
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket FHD 50fps" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png" group-title="UK | SPORTS",UK: Sky Sports Cricket FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276930
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png" group-title="UK | SPORTS",UK: Sky Sports Cricket HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276929
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket SD" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png" group-title="UK | SPORTS",UK: Sky Sports Cricket SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276928
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD 50fps" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="UK | SPORTS",UK: Sky Sports F1 FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276927
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="UK | SPORTS",UK: Sky Sports F1 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276926
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 SD" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="UK | SPORTS",UK: Sky Sports F1 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276925
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football FHD 50fps" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="UK | SPORTS",UK: Sky Sports Football FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276924
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football HD" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="UK | SPORTS",UK: Sky Sports Football HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276923
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football SD" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="UK | SPORTS",UK: Sky Sports Football SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276922
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf FHD 50fps" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="UK | SPORTS",UK: Sky Sports Golf FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276921
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="UK | SPORTS",UK: Sky Sports Golf HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276920
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf SD" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="UK | SPORTS",UK: Sky Sports Golf SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276919
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event FHD 50fps" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="UK | SPORTS",UK: Sky Sports Main Event FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276918
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="UK | SPORTS",UK: Sky Sports Main Event HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276917
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event SD" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="UK | SPORTS",UK: Sky Sports Main Event SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276916
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix FHD 50fps" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="UK | SPORTS",UK: Sky Sports Mix FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276915
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix HD" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="UK | SPORTS",UK: Sky Sports Mix HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276914
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix SD" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="UK | SPORTS",UK: Sky Sports Mix SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276913
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News FHD 50fps" tvg-logo="https://media.info/i/lf/300/1600877510/1087.png" group-title="UK | SPORTS",UK: Sky Sports News FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276912
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News HD" tvg-logo="https://media.info/i/lf/300/1600877510/1087.png" group-title="UK | SPORTS",UK: Sky Sports News HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276911
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News SD" tvg-logo="https://media.info/i/lf/300/1600877510/1087.png" group-title="UK | SPORTS",UK: Sky Sports News SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276910
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sports Action FHD 50fps" tvg-logo="https://miro.medium.com/max/3656/1*3VpvBBTGB77-qqhe5Ki_AQ.png" group-title="UK | SPORTS",UK: Sky Sports Action FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276909
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sports Action HD" tvg-logo="https://miro.medium.com/max/3656/1*3VpvBBTGB77-qqhe5Ki_AQ.png" group-title="UK | SPORTS",UK: Sky Sports Action HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276908
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sports Action SD" tvg-logo="https://miro.medium.com/max/3656/1*3VpvBBTGB77-qqhe5Ki_AQ.png" group-title="UK | SPORTS",UK: Sky Sports Action SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276907
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League FHD 50fps" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="UK | SPORTS",UK: Sky Sports Premier League FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276906
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="UK | SPORTS",UK: Sky Sports Premier League HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276905
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League SD" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="UK | SPORTS",UK: Sky Sports Premier League SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276904
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: Sky Sports Racing FHD 50fps" tvg-logo="https://media.info/i/lf/300/1546303327/1161.png" group-title="UK | SPORTS",UK: Sky Sports Racing FHD 50fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276903
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: Sky Sports Racing HD" tvg-logo="https://media.info/i/lf/300/1546303327/1161.png" group-title="UK | SPORTS",UK: Sky Sports Racing HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276902
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: Sky Sports Racing SD" tvg-logo="https://media.info/i/lf/300/1546303327/1161.png" group-title="UK | SPORTS",UK: Sky Sports Racing SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276901
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276900
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 SD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276899
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="UK: TNT Sport 2 HD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 2 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276898
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="UK: TNT Sport 2 SD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 2 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276897
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 3 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276896
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: TNT Sport 3 HD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 3 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276895
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: TNT Sport 3 SD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 3 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276894
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK: TNT Sport 4 FHD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 4 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276893
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK: TNT Sport 4 HD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 4 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276892
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK: TNT Sport 4 SD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 4 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276891
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="UK: TNT Sport 5" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 5
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276890
+#EXTINF:-1 tvg-id="tntsports6.uk" tvg-name="UK: TNT Sport 6" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 6
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276889
+#EXTINF:-1 tvg-id="tntsports7.uk" tvg-name="UK: TNT Sport 7" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 7
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276888
+#EXTINF:-1 tvg-id="tntsports8.uk" tvg-name="UK: TNT Sport 8" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 8
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276887
+#EXTINF:-1 tvg-id="tntsports9.uk" tvg-name="UK: TNT Sport 9" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 9
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276886
+#EXTINF:-1 tvg-id="tntsports10.uk" tvg-name="UK: TNT Sport 10" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 10
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276885
+#EXTINF:-1 tvg-id="BOXNAUK" tvg-name="UK: Boxnation HD" tvg-logo="https://media.info/i/lf/300/1447971434/1523.png" group-title="UK | SPORTS",UK: Boxnation HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276884
+#EXTINF:-1 tvg-id="BOXNAUK" tvg-name="UK: BoxNation" tvg-logo="https://media.info/i/lf/300/1447971434/1523.png" group-title="UK | SPORTS",UK: BoxNation
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276883
+#EXTINF:-1 tvg-id="sportystuff.uk" tvg-name="UK: Sporty Stuff HD" tvg-logo="https://www.sportystuff.tv/content/images/2022/02/logo-l.png" group-title="UK | SPORTS",UK: Sporty Stuff HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276882
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1 FHD" tvg-logo="https://media.info/i/lf/300/1447433721/1065.png" group-title="UK | SPORTS",UK: Eurosport 1 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276881
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1 HD" tvg-logo="https://media.info/i/lf/300/1447433721/1065.png" group-title="UK | SPORTS",UK: Eurosport 1 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276880
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2 FHD" tvg-logo="https://media.info/i/lf/300/1447433758/1150.png" group-title="UK | SPORTS",UK: Eurosport 2 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276879
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2 HD" tvg-logo="https://media.info/i/lf/300/1447433721/1065.png" group-title="UK | SPORTS",UK: Eurosport 2 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276878
+#EXTINF:-1 tvg-id="viaplayxtra.uk" tvg-name="UK: Viaplay Xtra  FHD" tvg-logo="https://uploads-eu-west-1.insided.com/kpn-nl/attachment/5dddaa17-f5e3-456a-a32f-d32b1d6fedfa_thumb.png" group-title="UK | SPORTS",UK: Viaplay Xtra  FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276877
+#EXTINF:-1 tvg-id="viaplayxtra.uk" tvg-name="UK:  Viaplay Xtra HD" tvg-logo="https://uploads-eu-west-1.insided.com/kpn-nl/attachment/5dddaa17-f5e3-456a-a32f-d32b1d6fedfa_thumb.png" group-title="UK | SPORTS",UK:  Viaplay Xtra HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276876
+#EXTINF:-1 tvg-id="LALIGA1" tvg-name="UK: LaLigaTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/160px-LaLiga.svg.png" group-title="UK | SPORTS",UK: LaLigaTV FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276875
+#EXTINF:-1 tvg-id="LALTV" tvg-name="UK: LaLigaTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/160px-LaLiga.svg.png" group-title="UK | SPORTS",UK: LaLigaTV HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276874
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV FHD" tvg-logo="https://img2.pngio.com/index-of-logos-spo-mutv-png-300_198.png" group-title="UK | SPORTS",UK: MUTV FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276873
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="https://img2.pngio.com/index-of-logos-spo-mutv-png-300_198.png" group-title="UK | SPORTS",UK: MUTV HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276872
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV SD" tvg-logo="https://img2.pngio.com/index-of-logos-spo-mutv-png-300_198.png" group-title="UK | SPORTS",UK: MUTV SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276871
+#EXTINF:-1 tvg-id="viaplay1.uk" tvg-name="UK: Viaplay Sports 1 FHD" tvg-logo="https://uploads-eu-west-1.insided.com/kpn-nl/attachment/5dddaa17-f5e3-456a-a32f-d32b1d6fedfa_thumb.png" group-title="UK | SPORTS",UK: Viaplay Sports 1 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276870
+#EXTINF:-1 tvg-id="viaplay1.uk" tvg-name="UK: Viaplay Sports UK 1 HD" tvg-logo="https://uploads-eu-west-1.insided.com/kpn-nl/attachment/5dddaa17-f5e3-456a-a32f-d32b1d6fedfa_thumb.png" group-title="UK | SPORTS",UK: Viaplay Sports UK 1 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276869
+#EXTINF:-1 tvg-id="viaplay1.uk" tvg-name="UK: Viaplay Sports  IR 1 HD" tvg-logo="https://uploads-eu-west-1.insided.com/kpn-nl/attachment/5dddaa17-f5e3-456a-a32f-d32b1d6fedfa_thumb.png" group-title="UK | SPORTS",UK: Viaplay Sports  IR 1 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276868
+#EXTINF:-1 tvg-id="viaplay1.uk" tvg-name="UK: Viaplay Sports 1 SD" tvg-logo="https://uploads-eu-west-1.insided.com/kpn-nl/attachment/5dddaa17-f5e3-456a-a32f-d32b1d6fedfa_thumb.png" group-title="UK | SPORTS",UK: Viaplay Sports 1 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276867
+#EXTINF:-1 tvg-id="viaplay2.uk" tvg-name="UK: Viaplay Sports 2  FHD" tvg-logo="https://uploads-eu-west-1.insided.com/kpn-nl/attachment/5dddaa17-f5e3-456a-a32f-d32b1d6fedfa_thumb.png" group-title="UK | SPORTS",UK: Viaplay Sports 2  FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276866
+#EXTINF:-1 tvg-id="viaplay2.uk" tvg-name="UK: Viaplay Sports UK 2 HD" tvg-logo="https://uploads-eu-west-1.insided.com/kpn-nl/attachment/5dddaa17-f5e3-456a-a32f-d32b1d6fedfa_thumb.png" group-title="UK | SPORTS",UK: Viaplay Sports UK 2 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276865
+#EXTINF:-1 tvg-id="viaplay2.uk" tvg-name="UK: Viaplay Sports IR 2 HD" tvg-logo="https://uploads-eu-west-1.insided.com/kpn-nl/attachment/5dddaa17-f5e3-456a-a32f-d32b1d6fedfa_thumb.png" group-title="UK | SPORTS",UK: Viaplay Sports IR 2 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276864
+#EXTINF:-1 tvg-id="viaplay2.uk" tvg-name="UK: Viaplay Sports  2 UK" tvg-logo="https://uploads-eu-west-1.insided.com/kpn-nl/attachment/5dddaa17-f5e3-456a-a32f-d32b1d6fedfa_thumb.png" group-title="UK | SPORTS",UK: Viaplay Sports  2 UK
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276863
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: Racing TV  FHD" tvg-logo="https://www.catterickbridge.co.uk/portals/0/Graphics/Racing/RacingUK/v01_Racing-TV-Logo-RTV-Blue_RGB_NOBG-min.png" group-title="UK | SPORTS",UK: Racing TV  FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276862
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: Racing TV HD" tvg-logo="https://www.catterickbridge.co.uk/portals/0/Graphics/Racing/RacingUK/v01_Racing-TV-Logo-RTV-Blue_RGB_NOBG-min.png" group-title="UK | SPORTS",UK: Racing TV HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276861
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1 SD" tvg-logo="https://media.info/i/lf/300/1447433721/1065.png" group-title="UK | SPORTS",UK: Eurosport 1 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276860
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2 SD" tvg-logo="https://media.info/i/lf/300/1447433758/1150.png" group-title="UK | SPORTS",UK: Eurosport 2 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276859
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276858
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 2
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276857
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 3
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276856
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 4
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276855
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 5
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276854
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 6
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276853
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 7
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276852
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 8
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276851
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 9
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276850
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 10
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276849
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 11
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276848
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 12
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276847
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 13
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276846
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 14
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276845
+#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/250px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" group-title="UK | SPORTS",BBC Red Button 15
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276844
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV FHD" tvg-logo="https://pluspng.com/img-png/logo-liverpool-fc-png-liverpool-fc-logo-500.png" group-title="UK | SPORTS",UK: LFC TV FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276843
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV HD" tvg-logo="https://pluspng.com/img-png/logo-liverpool-fc-png-liverpool-fc-logo-500.png" group-title="UK | SPORTS",UK: LFC TV HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276842
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Mosaic" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: BT Sport Mosaic
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276840
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: Racing TV  SD" tvg-logo="https://www.catterickbridge.co.uk/portals/0/Graphics/Racing/RacingUK/v01_Racing-TV-Logo-RTV-Blue_RGB_NOBG-min.png" group-title="UK | SPORTS",UK: Racing TV  SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276836
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Mosaic 2" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: BT Sport Mosaic 2
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276835
+#EXTINF:-1 tvg-id="WWEHD" tvg-name="WWE Network:" tvg-logo="" group-title="UK | SPORTS",WWE Network:
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276834
+#EXTINF:-1 tvg-id="CBSSNHD" tvg-name="CBS Sports Network" tvg-logo="" group-title="UK | SPORTS",CBS Sports Network
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276833
+#EXTINF:-1 tvg-id="DUPWCHD" tvg-name="Willow Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Willow_Cricket.PNG/200px-Willow_Cricket.PNG" group-title="UK | SPORTS",Willow Cricket
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276832
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="UK | SPORTS",UFC FIGHT PASS
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276831
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="UK | SPORTS",UK: Sky Sports Arena FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276830
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png" group-title="UK | SPORTS",UK: Sky Sports Cricket FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276829
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="UK | SPORTS",UK: Sky Sports F1 FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276828
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="UK | SPORTS",UK: Sky Sports Football FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276827
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="UK | SPORTS",UK: Sky Sports Golf FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276826
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="UK | SPORTS",UK: Sky Sports Main Event FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276825
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="UK | SPORTS",UK: Sky Sports Mix FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276824
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1600877510/1087.png" group-title="UK | SPORTS",UK: Sky Sports News FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276823
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="UK: Sky Sports NFL/ACTION FHD HEVC 25fps" tvg-logo="https://miro.medium.com/max/3656/1*3VpvBBTGB77-qqhe5Ki_AQ.png" group-title="UK | SPORTS",UK: Sky Sports NFL/ACTION FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276822
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="UK | SPORTS",UK: Sky Sports Premier League FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276821
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: Sky Sports Racing FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1546303327/1161.png" group-title="UK | SPORTS",UK: Sky Sports Racing FHD HEVC 25fps
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276820
+#EXTINF:-1 tvg-id="eurosport3.uk" tvg-name="UK: Eurosport 3" tvg-logo="" group-title="UK | SPORTS",UK: Eurosport 3
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276819
+#EXTINF:-1 tvg-id="eurosport4.uk" tvg-name="UK: Eurosport 4" tvg-logo="" group-title="UK | SPORTS",UK: Eurosport 4
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276818
+#EXTINF:-1 tvg-id="eurosport5.uk" tvg-name="UK: Eurosport 5" tvg-logo="" group-title="UK | SPORTS",UK: Eurosport 5
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276817
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 01 " tvg-logo="" group-title="UK | SPORTS",Sky Red Button 01 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276816
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 02 " tvg-logo="" group-title="UK | SPORTS",Sky Red Button 02 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276815
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 03 " tvg-logo="" group-title="UK | SPORTS",Sky Red Button 03 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276814
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 04 " tvg-logo="" group-title="UK | SPORTS",Sky Red Button 04 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276813
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 05 " tvg-logo="" group-title="UK | SPORTS",Sky Red Button 05 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276812
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 06 " tvg-logo="" group-title="UK | SPORTS",Sky Red Button 06 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276811
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 07 " tvg-logo="" group-title="UK | SPORTS",Sky Red Button 07 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276810
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 08 " tvg-logo="" group-title="UK | SPORTS",Sky Red Button 08 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276809
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 09 " tvg-logo="" group-title="UK | SPORTS",Sky Red Button 09 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276808
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 10 " tvg-logo="" group-title="UK | SPORTS",Sky Red Button 10 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276807
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT Sport 1 FHD HEVC" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD HEVC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276806
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT Sport 2 FHD HEVC" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 2 FHD HEVC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276805
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 FHD HEVC" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 3 FHD HEVC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276804
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK: TNT Sport 4 FHD HEVC" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 4 FHD HEVC
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276803
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT Sport 1 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD 50FPS
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276802
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT Sport 2 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 2 FHD 50FPS
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276801
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 3 FHD 50FPS
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276800
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK: TNT Sport 4 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 4 FHD 50FPS
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276799
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 11" tvg-logo="" group-title="UK | SPORTS",Sky Red Button 11
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276798
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 12" tvg-logo="" group-title="UK | SPORTS",Sky Red Button 12
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276797
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 13" tvg-logo="" group-title="UK | SPORTS",Sky Red Button 13
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276796
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 14" tvg-logo="" group-title="UK | SPORTS",Sky Red Button 14
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276795
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 15" tvg-logo="" group-title="UK | SPORTS",Sky Red Button 15
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276794
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 16" tvg-logo="" group-title="UK | SPORTS",Sky Red Button 16
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276793
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 17" tvg-logo="" group-title="UK | SPORTS",Sky Red Button 17
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276792
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 18" tvg-logo="" group-title="UK | SPORTS",Sky Red Button 18
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276791
+#EXTINF:-1 tvg-id="" tvg-name="Sky Red Button 19" tvg-logo="" group-title="UK | SPORTS",Sky Red Button 19
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276790
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="UK: TNT Sport Ultimate 4K" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport Ultimate 4K
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276789
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sport 1 (IRE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="UK | SPORTS",UK: Premier Sport 1 (IRE)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276788
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: Premier Sport 2 (IRE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="UK | SPORTS",UK: Premier Sport 2 (IRE)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276787
+#EXTINF:-1 tvg-id="dazn1.uk" tvg-name="UK: DAZN1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="UK | SPORTS",UK: DAZN1 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276786
+#EXTINF:-1 tvg-id="dazn1.uk" tvg-name="UK: DAZN1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="UK | SPORTS",UK: DAZN1 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276785
+#EXTINF:-1 tvg-id="dazn1.uk" tvg-name="UK: DAZN1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="UK | SPORTS",UK: DAZN1 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276784
+#EXTINF:-1 tvg-id="BBC1 S East" tvg-name="UK: BBC One South East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | Regional",UK: BBC One South East
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276783
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One NI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | Regional",UK: BBC One NI FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276782
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One Wal FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | Regional",UK: BBC One Wal FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276781
+#EXTINF:-1 tvg-id="111ANZ" tvg-name="UK: BBC Two Wal FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1920px-BBC_Two.svg.png" group-title="UK | Regional",UK: BBC Two Wal FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276780
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One Wales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | Regional",UK: BBC One Wales HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276779
+#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK: BBC One ScotFHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | Regional",UK: BBC One ScotFHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276778
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Anglia East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | Regional",UK: ITV Anglia East HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276777
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Central East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | Regional",UK: ITV Central East HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276776
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Granada HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | Regional",UK: ITV Granada HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276775
+#EXTINF:-1 tvg-id="111ANZ" tvg-name="UK: ITV Meridian North HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | Regional",UK: ITV Meridian North HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276774
+#EXTINF:-1 tvg-id="111ANZ" tvg-name="UK: ITV Meridian South HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | Regional",UK: ITV Meridian South HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276773
+#EXTINF:-1 tvg-id="111ANZ" tvg-name="UK: ITV Tyne Tees HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | Regional",UK: ITV Tyne Tees HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276772
+#EXTINF:-1 tvg-id="111ANZ" tvg-name="UK: ITV Wales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | Regional",UK: ITV Wales HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276771
+#EXTINF:-1 tvg-id="111ANZ" tvg-name="UK: ITV West Country West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | Regional",UK: ITV West Country West HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276770
+#EXTINF:-1 tvg-id="" tvg-name="UK: STV Central East Region (UK Regional)" tvg-logo="https://media.info/i/lf/300/1405344389/5146.png" group-title="UK | Regional",UK: STV Central East Region (UK Regional)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276769
+#EXTINF:-1 tvg-id="" tvg-name="UK: STV Central West Region (UK Regional)" tvg-logo="https://media.info/i/lf/300/1405344389/5146.png" group-title="UK | Regional",UK: STV Central West Region (UK Regional)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276768
+#EXTINF:-1 tvg-id="" tvg-name="UK: STV North Region (UK Regional)" tvg-logo="https://media.info/i/lf/300/1405344389/5146.png" group-title="UK | Regional",UK: STV North Region (UK Regional)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276767
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ITV_%28Fernsehsender%29_logo.svg/800px-ITV_%28Fernsehsender%29_logo.svg.png" group-title="UK | Regional",UK: ITV Ireland
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276766
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Scotland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ITV_%28Fernsehsender%29_logo.svg/800px-ITV_%28Fernsehsender%29_logo.svg.png" group-title="UK | Regional",UK: ITV Scotland
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276765
+#EXTINF:-1 tvg-id="BBC One Lon" tvg-name="UK: BBC One London" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | Regional",UK: BBC One London
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276764
+#EXTINF:-1 tvg-id="BBC One Lon" tvg-name="UK: BBC One North West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | Regional",UK: BBC One North West
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276763
+#EXTINF:-1 tvg-id="ITV UK" tvg-name="UK: ITV London" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ITV_%28Fernsehsender%29_logo.svg/800px-ITV_%28Fernsehsender%29_logo.svg.png" group-title="UK | Regional",UK: ITV London
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276762
+#EXTINF:-1 tvg-id="BBC Two HD UK" tvg-name="UK: BBC Two NI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | Regional",UK: BBC Two NI
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276761
+#EXTINF:-1 tvg-id="ITV UK" tvg-name="UK: ITV Central West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | Regional",UK: ITV Central West
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276760
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC Alba" tvg-logo="" group-title="UK | Regional",UK: BBC Alba
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276759
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One West Midlands" tvg-logo="" group-title="UK | Regional",UK: BBC One West Midlands
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276758
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One East Midlands" tvg-logo="" group-title="UK | Regional",UK: BBC One East Midlands
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276757
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One North East & Cumbria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | Regional",UK: BBC One North East & Cumbria
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276756
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC One FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC One FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276755
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC One HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC One HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276754
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC One SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_One_HD.svg/800px-BBC_One_HD.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC One SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276753
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC Two FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Two_%282001%29.svg/220px-BBC_Two_%282001%29.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC Two FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276752
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC Two HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Two_%282001%29.svg/220px-BBC_Two_%282001%29.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC Two HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276751
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC Two SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1920px-BBC_Two.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC Two SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276750
+#EXTINF:-1 tvg-id="BBC3" tvg-name="UK: BBC Three HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/1920px-BBC_Three_2022.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC Three HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276749
+#EXTINF:-1 tvg-id="bbcentertainment.uk" tvg-name="UK: BBC Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BBC_Entertainment_Logo.svg/583px-BBC_Entertainment_Logo.svg.png" group-title="UK | ENTERTAINMENT",UK: BBC Entertainment
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276748
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK: ITV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276747
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK: ITV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276746
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK: ITV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/200px-ITV_logo_2019.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276745
+#EXTINF:-1 tvg-id="itv1angliaplus1.uk" tvg-name="UK: ITV+1" tvg-logo="https://static.filmon.com/assets/channels/1817/logo.png" group-title="UK | ENTERTAINMENT",UK: ITV+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276744
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/800px-Channel_4_logo_2015.svg.png" group-title="UK | ENTERTAINMENT",UK: Channel 4 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276743
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/800px-Channel_4_logo_2015.svg.png" group-title="UK | ENTERTAINMENT",UK: Channel 4 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276742
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/800px-Channel_4_logo_2015.svg.png" group-title="UK | ENTERTAINMENT",UK: Channel 4 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276741
+#EXTINF:-1 tvg-id="channel4plus1.uk" tvg-name="UK:  Channel 4+1" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/channel4-plus1-logo-255x140.png" group-title="UK | ENTERTAINMENT",UK:  Channel 4+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276740
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK: Channel 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Channel_5_logo_2011.svg/120px-Channel_5_logo_2011.svg.png" group-title="UK | ENTERTAINMENT",UK: Channel 5 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276739
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK: Channel 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Channel_5_logo_2011.svg/120px-Channel_5_logo_2011.svg.png" group-title="UK | ENTERTAINMENT",UK: Channel 5 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276738
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK: Channel 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Channel_5_logo_2011.svg/120px-Channel_5_logo_2011.svg.png" group-title="UK | ENTERTAINMENT",UK: Channel 5 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276737
+#EXTINF:-1 tvg-id="channel5plus1.uk" tvg-name="UK: Channel 5+1" tvg-logo="https://logodix.com/logo/1299632.png" group-title="UK | ENTERTAINMENT",UK: Channel 5+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276736
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: ITV2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV2 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276735
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: ITV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV2 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276734
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: ITV2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV2 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276733
+#EXTINF:-1 tvg-id="itv2plus1.uk" tvg-name="UK: ITV2+1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/itv2_plus1.png" group-title="UK | ENTERTAINMENT",UK: ITV2+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276732
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: ITV 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV 3 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276731
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: ITV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV 3 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276730
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: ITV 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV 3 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276729
+#EXTINF:-1 tvg-id="itv3plus1.uk" tvg-name="UK: ITV 3 +1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/ITV3_%2B1_logo_2022.svg/2560px-ITV3_%2B1_logo_2022.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV 3 +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276728
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: ITV4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV4 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276727
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: ITV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV4 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276726
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: ITV4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV4 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276725
+#EXTINF:-1 tvg-id="itv4plus1.uk" tvg-name="UK: ITV4+1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK | ENTERTAINMENT",UK: ITV4+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276724
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK: ITVBe SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/800px-ITVBe_logo_2014-.svg.png" group-title="UK | ENTERTAINMENT",UK: ITVBe SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276723
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK: Sky Arts FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="UK | ENTERTAINMENT",UK: Sky Arts FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276722
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK: Sky Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="UK | ENTERTAINMENT",UK: Sky Arts HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276721
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK: Sky Arts SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png" group-title="UK | ENTERTAINMENT",UK: Sky Arts SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276720
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: Sky Atlantic FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/1/1c/Sky_Atlantic_2017_logo.png" group-title="UK | ENTERTAINMENT",UK: Sky Atlantic FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276719
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: Sky Atlantic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/1/1c/Sky_Atlantic_2017_logo.png" group-title="UK | ENTERTAINMENT",UK: Sky Atlantic HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276718
+#EXTINF:-1 tvg-id="skycomedyhd.uk" tvg-name="UK: Sky Comedy FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/dc/Sky_Comedy_Logo_2020.png/798px-Sky_Comedy_Logo_2020.png" group-title="UK | ENTERTAINMENT",UK: Sky Comedy FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276717
+#EXTINF:-1 tvg-id="skycomedyhd.uk" tvg-name="UK: Sky Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/dc/Sky_Comedy_Logo_2020.png/798px-Sky_Comedy_Logo_2020.png" group-title="UK | ENTERTAINMENT",UK: Sky Comedy HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276716
+#EXTINF:-1 tvg-id="skycomedyhd.uk" tvg-name="UK: Sky Comedy SD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/dc/Sky_Comedy_Logo_2020.png/798px-Sky_Comedy_Logo_2020.png" group-title="UK | ENTERTAINMENT",UK: Sky Comedy SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276715
+#EXTINF:-1 tvg-id="skyreplay.uk" tvg-name="UK: Sky Replay SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Skyreplay2020.png" group-title="UK | ENTERTAINMENT",UK: Sky Replay SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276714
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK: Sky Max FHD" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Sky Max FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276713
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK: Sky Max SD" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Sky Max SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276712
+#EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="UK:  Sky Showcase FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/800px-Sky_Showcase_2021.svg.png" group-title="UK | ENTERTAINMENT",UK:  Sky Showcase FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276711
+#EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="UK: Sky Showcase HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/800px-Sky_Showcase_2021.svg.png" group-title="UK | ENTERTAINMENT",UK: Sky Showcase HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276710
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK: Sky Witness FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sky_Witness_-_Logo_2018.svg/512px-Sky_Witness_-_Logo_2018.svg.png" group-title="UK | ENTERTAINMENT",UK: Sky Witness FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276709
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK: Sky Witness HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sky_Witness_-_Logo_2018.svg/512px-Sky_Witness_-_Logo_2018.svg.png" group-title="UK | ENTERTAINMENT",UK: Sky Witness HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276708
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK: Sky Witness SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sky_Witness_-_Logo_2018.svg/512px-Sky_Witness_-_Logo_2018.svg.png" group-title="UK | ENTERTAINMENT",UK: Sky Witness SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276707
+#EXTINF:-1 tvg-id="skywitnessplus1.uk" tvg-name="UK: Sky Witness+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sky_Witness_-_Logo_2018.svg/512px-Sky_Witness_-_Logo_2018.svg.png" group-title="UK | ENTERTAINMENT",UK: Sky Witness+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276706
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: 4seven SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/800px-4seven_logo_2018.svg.png" group-title="UK | ENTERTAINMENT",UK: 4seven SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276705
+#EXTINF:-1 tvg-id="5action.uk" tvg-name="UK: 5 Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/1920px-5Action_logo.svg.png" group-title="UK | ENTERTAINMENT",UK: 5 Action
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276704
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK: 5SELECT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/5Select_logo.png" group-title="UK | ENTERTAINMENT",UK: 5SELECT SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276703
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK: 5STAR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1920px-5Star_logo_2019.svg.png" group-title="UK | ENTERTAINMENT",UK: 5STAR SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276702
+#EXTINF:-1 tvg-id="5starplus1.uk" tvg-name="UK: 5STAR+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1920px-5Star_logo_2019.svg.png" group-title="UK | ENTERTAINMENT",UK: 5STAR+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276701
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK: 5 USA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1920px-5USA_logo.svg.png" group-title="UK | ENTERTAINMENT",UK: 5 USA SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276700
+#EXTINF:-1 tvg-id="fiveusaplus1.uk" tvg-name="UK: 5USA+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/1920px-5USA_logo.svg.png" group-title="UK | ENTERTAINMENT",UK: 5USA+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276699
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK: Alibi FHD" tvg-logo="https://media.info/i/lf/300/1435774704/1092.png" group-title="UK | ENTERTAINMENT",UK: Alibi FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276698
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK: Alibi HD" tvg-logo="https://media.info/i/lf/300/1435774704/1092.png" group-title="UK | ENTERTAINMENT",UK: Alibi HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276697
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK: Alibi SD" tvg-logo="https://media.info/i/lf/300/1435774704/1092.png" group-title="UK | ENTERTAINMENT",UK: Alibi SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276696
+#EXTINF:-1 tvg-id="alibiplus1.uk" tvg-name="UK: Alibi+1" tvg-logo="https://media.info/i/lf/300/1435774704/1092.png" group-title="UK | ENTERTAINMENT",UK: Alibi+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276695
+#EXTINF:-1 tvg-id="b4umusic.uk" tvg-name="UK: B4U Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="UK | ENTERTAINMENT",UK: B4U Music
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276694
+#EXTINF:-1 tvg-id="b4umovies.uk" tvg-name="UK: B4U Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/B4U_Movies.png/160px-B4U_Movies.png" group-title="UK | ENTERTAINMENT",UK: B4U Movies
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276693
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK: BBC Four FHD" tvg-logo="https://media.info/i/lf/300/1405605823/1103.png" group-title="UK | ENTERTAINMENT",UK: BBC Four FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276692
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK: BBC Four SD" tvg-logo="https://media.info/i/lf/300/1405605823/1103.png" group-title="UK | ENTERTAINMENT",UK: BBC Four SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276691
+#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK: BBC Parliament" tvg-logo="https://media.info/i/lf/300/1608572183/1044.png" group-title="UK | ENTERTAINMENT",UK: BBC Parliament
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276690
+#EXTINF:-1 tvg-id="bbcscotland.uk" tvg-name="UK: BBC Scotland FHD" tvg-logo="https://media.info/i/lf/300/1552934594/7265.png" group-title="UK | ENTERTAINMENT",UK: BBC Scotland FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276689
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK: BLAZE" tvg-logo="https://media.info/i/lf/300/1471534975/6301.png" group-title="UK | ENTERTAINMENT",UK: BLAZE
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276688
+#EXTINF:-1 tvg-id="realityxtra.uk" tvg-name="UK: Reality Xtra (CBS Drama)" tvg-logo="https://media.info/i/lf/300/1405279643/1429.png" group-title="UK | ENTERTAINMENT",UK: Reality Xtra (CBS Drama)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276687
+#EXTINF:-1 tvg-id="legend.uk" tvg-name="UK: Legend (CBS Justice)" tvg-logo="https://media.info/i/lf/300/1566661342/1459.png" group-title="UK | ENTERTAINMENT",UK: Legend (CBS Justice)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276686
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK: CBS Reality" tvg-logo="https://media.info/i/lf/300/1405279334/1209.png" group-title="UK | ENTERTAINMENT",UK: CBS Reality
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276685
+#EXTINF:-1 tvg-id="cbsrealityplus1.uk" tvg-name="UK: CBS Reality+1" tvg-logo="https://media.info/i/lf/300/1405279334/1209.png" group-title="UK | ENTERTAINMENT",UK: CBS Reality+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276684
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK: Challenge" tvg-logo="https://media.info/i/lf/300/1466678509/1051.png" group-title="UK | ENTERTAINMENT",UK: Challenge
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276683
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK: Comedy Central FHD" tvg-logo="https://media.info/i/lf/300/1413751729/1035.png" group-title="UK | ENTERTAINMENT",UK: Comedy Central FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276682
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK: Comedy Central HD" tvg-logo="https://media.info/i/lf/300/1413751729/1035.png" group-title="UK | ENTERTAINMENT",UK: Comedy Central HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276681
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK: Comedy Central SD" tvg-logo="https://media.info/i/lf/300/1413751729/1035.png" group-title="UK | ENTERTAINMENT",UK: Comedy Central SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276680
+#EXTINF:-1 tvg-id="comedycentralplus1.uk" tvg-name="UK: ComedyCent+1" tvg-logo="https://media.info/i/lf/300/1413751729/1035.png" group-title="UK | ENTERTAINMENT",UK: ComedyCent+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276679
+#EXTINF:-1 tvg-id="comedycentralextra.uk" tvg-name="UK: Comedy Central Extra" tvg-logo="https://media.info/i/lf/300/1413751906/1263.png" group-title="UK | ENTERTAINMENT",UK: Comedy Central Extra
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276678
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK: Dave FHD" tvg-logo="https://media.info/i/lf/300/1405279147/1094.png" group-title="UK | ENTERTAINMENT",UK: Dave FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276677
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK: Dave HD" tvg-logo="https://media.info/i/lf/300/1405279147/1094.png" group-title="UK | ENTERTAINMENT",UK: Dave HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276676
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK: Dave SD" tvg-logo="https://media.info/i/lf/300/1405279147/1094.png" group-title="UK | ENTERTAINMENT",UK: Dave SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276675
+#EXTINF:-1 tvg-id="davejavu.uk" tvg-name="UK: Dave ja vu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dave_ja_vu.png/800px-Dave_ja_vu.png" group-title="UK | ENTERTAINMENT",UK: Dave ja vu
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276674
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK: DMAX SD" tvg-logo="https://media.info/i/lf/300/1405279660/1434.png" group-title="UK | ENTERTAINMENT",UK: DMAX SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276673
+#EXTINF:-1 tvg-id="discoverydmaxplus1.uk" tvg-name="UK: DMAX+1" tvg-logo="https://media.info/i/lf/300/1405279660/1434.png" group-title="UK | ENTERTAINMENT",UK: DMAX+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276672
+#EXTINF:-1 tvg-id="4Music" tvg-name="UK: Drama SD" tvg-logo="https://media.info/i/lf/300/1449574380/1538.png" group-title="UK | ENTERTAINMENT",UK: Drama SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276671
+#EXTINF:-1 tvg-id="dramaplus1.uk" tvg-name="UK: Drama+1" tvg-logo="https://media.info/i/lf/300/1449574380/1538.png" group-title="UK | ENTERTAINMENT",UK: Drama+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276670
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK: E! FHD" tvg-logo="https://www.pngkey.com/png/full/406-4065017_e-tv-1-logo-png-transparent-e-entertainment.png" group-title="UK | ENTERTAINMENT",UK: E! FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276669
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK: E! HD" tvg-logo="https://www.pngkey.com/png/full/406-4065017_e-tv-1-logo-png-transparent-e-entertainment.png" group-title="UK | ENTERTAINMENT",UK: E! HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276668
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK: E! SD" tvg-logo="https://www.pngkey.com/png/full/406-4065017_e-tv-1-logo-png-transparent-e-entertainment.png" group-title="UK | ENTERTAINMENT",UK: E! SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276667
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK: Eden SD" tvg-logo="https://media.info/i/lf/300/1444689580/1095.png" group-title="UK | ENTERTAINMENT",UK: Eden SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276666
+#EXTINF:-1 tvg-id="edenplus1.uk" tvg-name="UK: Eden+1" tvg-logo="https://media.info/i/lf/300/1444689580/1095.png" group-title="UK | ENTERTAINMENT",UK: Eden+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276665
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK: E4 FHD" tvg-logo="https://media.info/i/lf/300/1539639917/1122.png" group-title="UK | ENTERTAINMENT",UK: E4 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276664
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK: E4 HD" tvg-logo="https://media.info/i/lf/300/1539639917/1122.png" group-title="UK | ENTERTAINMENT",UK: E4 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276663
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK: E4 SD" tvg-logo="https://media.info/i/lf/300/1539639917/1122.png" group-title="UK | ENTERTAINMENT",UK: E4 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276662
+#EXTINF:-1 tvg-id="e4plus1.uk" tvg-name="UK: E4+1" tvg-logo="https://media.info/i/lf/300/1539639917/1122.png" group-title="UK | ENTERTAINMENT",UK: E4+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276661
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: Film 4 FHD" tvg-logo="https://media.info/i/lf/300/1539640445/1066.png" group-title="UK | ENTERTAINMENT",UK: Film 4 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276660
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: Film 4 HD" tvg-logo="https://media.info/i/lf/300/1539640445/1066.png" group-title="UK | ENTERTAINMENT",UK: Film 4 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276659
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: Film 4 SD" tvg-logo="https://media.info/i/lf/300/1539640445/1066.png" group-title="UK | ENTERTAINMENT",UK: Film 4 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276658
+#EXTINF:-1 tvg-id="film4plus1.uk" tvg-name="UK: Film 4 +1" tvg-logo="https://media.info/i/lf/300/1539640445/1066.png" group-title="UK | ENTERTAINMENT",UK: Film 4 +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276657
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: GOLD FHD" tvg-logo="https://media.info/i/lf/300/1405904805/1093.png" group-title="UK | ENTERTAINMENT",UK: GOLD FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276656
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: GOLD HD" tvg-logo="https://media.info/i/lf/300/1405904805/1093.png" group-title="UK | ENTERTAINMENT",UK: GOLD HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276655
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: GOLD SD" tvg-logo="https://media.info/i/lf/300/1405904805/1093.png" group-title="UK | ENTERTAINMENT",UK: GOLD SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276654
+#EXTINF:-1 tvg-id="goldplus1.uk" tvg-name="UK: GOLD+1" tvg-logo="https://media.info/i/lf/300/1405904805/1093.png" group-title="UK | ENTERTAINMENT",UK: GOLD+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276653
+#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="UK: HGTV SD" tvg-logo="https://media.info/i/lf/300/1579638343/1096.png" group-title="UK | ENTERTAINMENT",UK: HGTV SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276652
+#EXTINF:-1 tvg-id="hgtvplus1.uk" tvg-name="UK: HGTV+1" tvg-logo="https://media.info/i/lf/300/1579638343/1096.png" group-title="UK | ENTERTAINMENT",UK: HGTV+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276651
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK: More 4 FHD" tvg-logo="https://media.info/i/lf/300/1539640268/1365.png" group-title="UK | ENTERTAINMENT",UK: More 4 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276650
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK: More 4 HD" tvg-logo="https://media.info/i/lf/300/1539640268/1365.png" group-title="UK | ENTERTAINMENT",UK: More 4 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276649
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK: More 4 SD" tvg-logo="https://media.info/i/lf/300/1539640268/1365.png" group-title="UK | ENTERTAINMENT",UK: More 4 SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276648
+#EXTINF:-1 tvg-id="more4plus1.uk" tvg-name="UK: More 4+1" tvg-logo="https://media.info/i/lf/300/1539640268/1365.png" group-title="UK | ENTERTAINMENT",UK: More 4+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276647
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK: MTV FHD" tvg-logo="https://media.info/i/lf/300/1508544944/1075.png" group-title="UK | ENTERTAINMENT",UK: MTV FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276646
+#EXTINF:-1 tvg-id="picktv.uk" tvg-name="UK: Pick SD" tvg-logo="https://media.info/i/lf/300/1509281511/1399.png" group-title="UK | ENTERTAINMENT",UK: Pick SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276645
+#EXTINF:-1 tvg-id="picktvplus1.uk" tvg-name="UK: Pick+1" tvg-logo="https://media.info/i/lf/300/1509281511/1399.png" group-title="UK | ENTERTAINMENT",UK: Pick+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276644
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: QUEST FHD" tvg-logo="https://media.info/i/lf/300/1443374633/1483.png" group-title="UK | ENTERTAINMENT",UK: QUEST FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276643
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: QUEST HD" tvg-logo="https://media.info/i/lf/300/1443374633/1483.png" group-title="UK | ENTERTAINMENT",UK: QUEST HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276642
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: QUEST SD" tvg-logo="https://media.info/i/lf/300/1443374633/1483.png" group-title="UK | ENTERTAINMENT",UK: QUEST SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276641
+#EXTINF:-1 tvg-id="questplus1.uk" tvg-name="UK: QUEST+1" tvg-logo="https://media.info/i/lf/300/1443374633/1483.png" group-title="UK | ENTERTAINMENT",UK: QUEST+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276640
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="UK: Quest Red SD" tvg-logo="https://media.info/i/lf/300/1509803778/6529.png" group-title="UK | ENTERTAINMENT",UK: Quest Red SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276639
+#EXTINF:-1 tvg-id="questredplus1.uk" tvg-name="UK: Quest Red+1" tvg-logo="https://media.info/i/lf/300/1509803778/6529.png" group-title="UK | ENTERTAINMENT",UK: Quest Red+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276638
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK: Really SD" tvg-logo="https://media.info/i/lf/300/1405279693/1487.png" group-title="UK | ENTERTAINMENT",UK: Really SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276637
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK: S4C FHD" tvg-logo="https://media.info/i/lf/300/1405279129/1079.png" group-title="UK | ENTERTAINMENT",UK: S4C FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276636
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK: S4C HD" tvg-logo="https://media.info/i/lf/300/1405279129/1079.png" group-title="UK | ENTERTAINMENT",UK: S4C HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276635
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK: S4C SD" tvg-logo="https://media.info/i/lf/300/1405279129/1079.png" group-title="UK | ENTERTAINMENT",UK: S4C SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276634
+#EXTINF:-1 tvg-id="showcase.uk" tvg-name="UK: Showcase" tvg-logo="https://media.info/i/lf/300/1405279670/1449.png" group-title="UK | ENTERTAINMENT",UK: Showcase
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276633
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK: SONY CHANNEL" tvg-logo="https://media.info/i/lf/300/1568239881/1537.png" group-title="UK | ENTERTAINMENT",UK: SONY CHANNEL
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276632
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="UK: SONY MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/132px-Sony_MAX.svg.png" group-title="UK | ENTERTAINMENT",UK: SONY MAX FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276631
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="UK: SONY Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/132px-Sony_MAX.svg.png" group-title="UK | ENTERTAINMENT",UK: SONY Max HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276630
+#EXTINF:-1 tvg-id="sonymax2.uk" tvg-name="UK: SONY MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/132px-Sony_MAX.svg.png" group-title="UK | ENTERTAINMENT",UK: SONY MAX 2
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276629
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK: SONY TV FHD" tvg-logo="https://media.info/i/lf/300/1568239881/1537.png" group-title="UK | ENTERTAINMENT",UK: SONY TV FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276628
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK: SONY TV HD" tvg-logo="https://media.info/i/lf/300/1568239881/1537.png" group-title="UK | ENTERTAINMENT",UK: SONY TV HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276627
+#EXTINF:-1 tvg-id="starplus.uk" tvg-name="UK: Star Plus FHD" tvg-logo="https://media.info/i/lf/300/1405279342/1219.png" group-title="UK | ENTERTAINMENT",UK: Star Plus FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276626
+#EXTINF:-1 tvg-id="starplus.uk" tvg-name="UK: Star Plus HD" tvg-logo="https://media.info/i/lf/300/1405279342/1219.png" group-title="UK | ENTERTAINMENT",UK: Star Plus HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276625
+#EXTINF:-1 tvg-id="STVSCO" tvg-name="UK: STV FHD" tvg-logo="https://media.info/i/lf/300/1405344389/5146.png" group-title="UK | ENTERTAINMENT",UK: STV FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276624
+#EXTINF:-1 tvg-id="STVSCO" tvg-name="UK: STV HD" tvg-logo="https://media.info/i/lf/300/1405344389/5146.png" group-title="UK | ENTERTAINMENT",UK: STV HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276623
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK: SYFY FHD" tvg-logo="https://media.info/i/lf/300/1506097772/1039.png" group-title="UK | ENTERTAINMENT",UK: SYFY FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276622
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK: SyFy HD" tvg-logo="https://media.info/i/lf/300/1506097772/1039.png" group-title="UK | ENTERTAINMENT",UK: SyFy HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276621
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK: SYFY SD" tvg-logo="https://media.info/i/lf/300/1506097772/1039.png" group-title="UK | ENTERTAINMENT",UK: SYFY SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276620
+#EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="UK: TalkingPictures" tvg-logo="https://media.info/i/lf/300/1440175939/5838.png" group-title="UK | ENTERTAINMENT",UK: TalkingPictures
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276619
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK: TLC FHD" tvg-logo="https://media.info/i/lf/300/1405339424/1535.png" group-title="UK | ENTERTAINMENT",UK: TLC FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276618
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK: TLC HD" tvg-logo="https://media.info/i/lf/300/1405339424/1535.png" group-title="UK | ENTERTAINMENT",UK: TLC HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276617
+#EXTINF:-1 tvg-id="tlcplus1.uk" tvg-name="UK: TLC+1" tvg-logo="https://media.info/i/lf/300/1405339424/1535.png" group-title="UK | ENTERTAINMENT",UK: TLC+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276616
+#EXTINF:-1 tvg-id="w.uk" tvg-name="UK: WATCH FHD" tvg-logo="https://media.info/i/lf/300/1455742352/1479.png" group-title="UK | ENTERTAINMENT",UK: WATCH FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276615
+#EXTINF:-1 tvg-id="w.uk" tvg-name="UK: Watch HD" tvg-logo="https://media.info/i/lf/300/1455742352/1479.png" group-title="UK | ENTERTAINMENT",UK: Watch HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276614
+#EXTINF:-1 tvg-id="w.uk" tvg-name="UK: Watch" tvg-logo="https://media.info/i/lf/300/1455742352/1479.png" group-title="UK | ENTERTAINMENT",UK: Watch
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276613
+#EXTINF:-1 tvg-id="wplus1.uk" tvg-name="UK: Watch +1" tvg-logo="https://media.info/i/lf/300/1455742352/1479.png" group-title="UK | ENTERTAINMENT",UK: Watch +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276612
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK: YESTERDAY" tvg-logo="https://media.info/i/lf/300/1444689856/1173.png" group-title="UK | ENTERTAINMENT",UK: YESTERDAY
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276611
+#EXTINF:-1 tvg-id="yesterdayplus1.uk" tvg-name="UK: YESTERDAY+1" tvg-logo="https://media.info/i/lf/300/1444689856/1173.png" group-title="UK | ENTERTAINMENT",UK: YESTERDAY+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276610
+#EXTINF:-1 tvg-id="RTE1HD" tvg-name="UK: RTE ONE FHD" tvg-logo="https://media.info/i/lf/300/1388405600/112.png" group-title="UK | ENTERTAINMENT",UK: RTE ONE FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276609
+#EXTINF:-1 tvg-id="RTE1HD" tvg-name="UK: RTE ONE HD" tvg-logo="https://media.info/i/lf/300/1388405600/112.png" group-title="UK | ENTERTAINMENT",UK: RTE ONE HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276608
+#EXTINF:-1 tvg-id="RTE1HD" tvg-name="UK: RTE ONE SD" tvg-logo="https://media.info/i/lf/300/1388405600/112.png" group-title="UK | ENTERTAINMENT",UK: RTE ONE SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276607
+#EXTINF:-1 tvg-id="rteonehd.ie" tvg-name="UK: RTE ONE+1" tvg-logo="https://media.info/i/lf/300/1388405600/112.png" group-title="UK | ENTERTAINMENT",UK: RTE ONE+1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276606
+#EXTINF:-1 tvg-id="RTE2HD" tvg-name="UK: RTE TWO FHD" tvg-logo="https://media.info/i/lf/300/1388405575/113.png" group-title="UK | ENTERTAINMENT",UK: RTE TWO FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276605
+#EXTINF:-1 tvg-id="RTE2HD" tvg-name="UK: RTE TWO HD" tvg-logo="https://media.info/i/lf/300/1388405575/113.png" group-title="UK | ENTERTAINMENT",UK: RTE TWO HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276604
+#EXTINF:-1 tvg-id="rtetwoplus1.ie" tvg-name="UK: RTE 2 +1" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: RTE 2 +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276603
+#EXTINF:-1 tvg-id="RTE2HD" tvg-name="UK: RTE Two SD" tvg-logo="https://media.info/i/lf/300/1388405575/113.png" group-title="UK | ENTERTAINMENT",UK: RTE Two SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276602
+#EXTINF:-1 tvg-id="TG4HD" tvg-name="UK: TG4" tvg-logo="https://media.info/i/lf/300/1388406133/115.png" group-title="UK | ENTERTAINMENT",UK: TG4
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276601
+#EXTINF:-1 tvg-id="utv.uk" tvg-name="UK: UTV FHD" tvg-logo="https://media.info/i/lf/300/1476654486/1109.png" group-title="UK | ENTERTAINMENT",UK: UTV FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276600
+#EXTINF:-1 tvg-id="utv.uk" tvg-name="UK: UTV HD" tvg-logo="https://media.info/i/lf/300/1476654486/1109.png" group-title="UK | ENTERTAINMENT",UK: UTV HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276599
+#EXTINF:-1 tvg-id="" tvg-name="UK: TG4 FHD" tvg-logo="https://media.info/i/lf/300/1388406133/115.png" group-title="UK | ENTERTAINMENT",UK: TG4 FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276598
+#EXTINF:-1 tvg-id="TG4HD" tvg-name="UK: TG4 HD" tvg-logo="https://media.info/i/lf/300/1388406133/115.png" group-title="UK | ENTERTAINMENT",UK: TG4 HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276597
+#EXTINF:-1 tvg-id="utv.uk" tvg-name="UK: UTV Ireland" tvg-logo="https://media.info/i/lf/300/1476654486/1109.png" group-title="UK | ENTERTAINMENT",UK: UTV Ireland
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276596
+#EXTINF:-1 tvg-id="VM1IREH" tvg-name="UK: Virgin Media One FHD" tvg-logo="https://media.info/i/lf/300/1536429746/114.png" group-title="UK | ENTERTAINMENT",UK: Virgin Media One FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276595
+#EXTINF:-1 tvg-id="VM1IREH" tvg-name="UK: Virgin Media One HD" tvg-logo="https://media.info/i/lf/300/1536429746/114.png" group-title="UK | ENTERTAINMENT",UK: Virgin Media One HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276594
+#EXTINF:-1 tvg-id="VM1IREH" tvg-name="UK: Virgin Media One SD" tvg-logo="https://media.info/i/lf/300/1536429746/114.png" group-title="UK | ENTERTAINMENT",UK: Virgin Media One SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276593
+#EXTINF:-1 tvg-id="VM2IREH" tvg-name="UK: Virgin Media Two FHD" tvg-logo="https://media.info/i/lf/300/1536429801/116.png" group-title="UK | ENTERTAINMENT",UK: Virgin Media Two FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276592
+#EXTINF:-1 tvg-id="VM2IREH" tvg-name="UK: Virgin Media Two HD" tvg-logo="https://media.info/i/lf/300/1536429801/116.png" group-title="UK | ENTERTAINMENT",UK: Virgin Media Two HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276591
+#EXTINF:-1 tvg-id="VM2IREH" tvg-name="UK: Virgin Media Two SD" tvg-logo="https://media.info/i/lf/300/1536429801/116.png" group-title="UK | ENTERTAINMENT",UK: Virgin Media Two SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276590
+#EXTINF:-1 tvg-id="virginmediathree.ie" tvg-name="UK: Virgin Media Three FHD" tvg-logo="https://media.info/i/lf/300/1536429861/179.png" group-title="UK | ENTERTAINMENT",UK: Virgin Media Three FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276589
+#EXTINF:-1 tvg-id="virginmediathree.ie" tvg-name="UK: Virgin Media Three HD" tvg-logo="https://media.info/i/lf/300/1536429861/179.png" group-title="UK | ENTERTAINMENT",UK: Virgin Media Three HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276588
+#EXTINF:-1 tvg-id="virginmediathree.ie" tvg-name="UK: Virgin Media Three SD" tvg-logo="https://media.info/i/lf/300/1536429861/179.png" group-title="UK | ENTERTAINMENT",UK: Virgin Media Three SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276587
+#EXTINF:-1 tvg-id="" tvg-name="UK: Virgin Media 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Virgin_Media_Four_logo.svg/799px-Virgin_Media_Four_logo.svg.png?20220823002149" group-title="UK | ENTERTAINMENT",UK: Virgin Media 4
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276586
+#EXTINF:-1 tvg-id="" tvg-name="Oireachtas" tvg-logo="" group-title="UK | ENTERTAINMENT",Oireachtas
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276585
+#EXTINF:-1 tvg-id="horrorxtraplus1.uk" tvg-name="UK: Horror Xtra +1 (Horror channel+1)" tvg-logo="https://media.info/i/lf/300/1405279394/1298.png" group-title="UK | ENTERTAINMENT",UK: Horror Xtra +1 (Horror channel+1)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276584
+#EXTINF:-1 tvg-id="horrorxtra.uk" tvg-name="UK: Horror Xtra (Horror channel)" tvg-logo="https://media.info/i/lf/300/1405279394/1298.png" group-title="UK | ENTERTAINMENT",UK: Horror Xtra (Horror channel)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276583
+#EXTINF:-1 tvg-id="iqrabangla.uk" tvg-name="UK: IQRA BANGLA" tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="UK | ENTERTAINMENT",UK: IQRA BANGLA
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276582
+#EXTINF:-1 tvg-id="iqratv.uk" tvg-name="UK: IQRA TV" tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="UK | ENTERTAINMENT",UK: IQRA TV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276581
+#EXTINF:-1 tvg-id="islamchannel.uk" tvg-name="UK: Islam Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Islam_Channel_Logo_COLOUR.png/200px-Islam_Channel_Logo_COLOUR.png" group-title="UK | ENTERTAINMENT",UK: Islam Channel
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276580
+#EXTINF:-1 tvg-id="aryfamily.uk" tvg-name="UK: New Vision TV" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/12/New-Vision.png" group-title="UK | ENTERTAINMENT",UK: New Vision TV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276579
+#EXTINF:-1 tvg-id="sanskar.uk" tvg-name="UK: Sanskar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/1_Om.svg/100px-1_Om.svg.png" group-title="UK | ENTERTAINMENT",UK: Sanskar
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276578
+#EXTINF:-1 tvg-id="utsavbharat.uk" tvg-name="UK: Utsav Gold FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="UK | ENTERTAINMENT",UK: Utsav Gold FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276577
+#EXTINF:-1 tvg-id="akaalchannel.uk" tvg-name="UK: Akaal Channel" tvg-logo="https://www.sikhentrepreneur.com/wp-content/uploads/2013/09/akaalch.png" group-title="UK | ENTERTAINMENT",UK: Akaal Channel
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276576
+#EXTINF:-1 tvg-id="zeetv.uk" tvg-name="UK: ZEE TV (Indian)" tvg-logo="https://media.info/i/lf/300/1408655851/1098.png" group-title="UK | ENTERTAINMENT",UK: ZEE TV (Indian)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276575
+#EXTINF:-1 tvg-id="ptvglobal.uk" tvg-name="UK: PTV Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="UK | ENTERTAINMENT",UK: PTV Global
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276574
+#EXTINF:-1 tvg-id="noortv.uk" tvg-name="UK: Noor TV" tvg-logo="https://png2.cleanpng.com/sh/edbfc06aedfd29d5229f3256da047be7/L0KzQYm3WMA5N6Rth5H0aYP2gLBuTfxwb5CyjNd1ZYbsg7r2jr1kcJJzhtd1LX7yf8O0lQYuaZdsgNN3aYP3cbA0jv92el55RadrNnG6QLa5WfZjbmQ5RqI9OUa2SIO7UcU0O2g1SqUCMEa4RIS1kP5o/kisspng-logo-television-channel-noor-tv-afghanistan-nour-t-5b6a70e29fbf34.0496382415337023706543.png" group-title="UK | ENTERTAINMENT",UK: Noor TV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276573
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK: Al Jazeera Eng" tvg-logo="https://media.info/i/lf/300/1498365190/6719.png" group-title="UK | ENTERTAINMENT",UK: Al Jazeera Eng
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276572
+#EXTINF:-1 tvg-id="britasiatv.uk" tvg-name="UK: Brit Asia" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Brit Asia
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276571
+#EXTINF:-1 tvg-id="colorscineplex.uk" tvg-name="UK: Colors Cineplex" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Colors Cineplex
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276570
+#EXTINF:-1 tvg-id="colors.uk" tvg-name="UK: Colors HD" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Colors HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276569
+#EXTINF:-1 tvg-id="samaa.uk" tvg-name="UK: Samaa" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Samaa
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276568
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK: Smithsonian HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/153px-Smithsonian_logo_color.svg.png" group-title="UK | ENTERTAINMENT",UK: Smithsonian HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276567
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK: Smithsonian SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/153px-Smithsonian_logo_color.svg.png" group-title="UK | ENTERTAINMENT",UK: Smithsonian SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276566
+#EXTINF:-1 tvg-id="ptcpunjabi.uk" tvg-name="UK: PTC PUNJABI" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: PTC PUNJABI
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276565
+#EXTINF:-1 tvg-id="tvone.uk" tvg-name="UK: TV ONE" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: TV ONE
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276564
+#EXTINF:-1 tvg-id="ntv.uk" tvg-name="UK: NTV" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: NTV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276563
+#EXTINF:-1 tvg-id="aajtak.uk" tvg-name="UK: AAJ TAK" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: AAJ TAK
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276562
+#EXTINF:-1 tvg-id="britishmuslim.uk" tvg-name="UK: British Muslim" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: British Muslim
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276561
+#EXTINF:-1 tvg-id="colorsrishtey.uk" tvg-name="UK: Colors Rishtey" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Colors Rishtey
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276560
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="UK: SONY SAB" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: SONY SAB
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276559
+#EXTINF:-1 tvg-id="utsavbharat.uk" tvg-name="UK: Utsav Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="UK | ENTERTAINMENT",UK: Utsav Gold HD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276558
+#EXTINF:-1 tvg-id="utsavbharat.uk" tvg-name="UK: Utsav Plus" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Utsav Plus
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276557
+#EXTINF:-1 tvg-id="utsavbharat.uk" tvg-name="UK: Utsav Bharat" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Utsav Bharat
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276556
+#EXTINF:-1 tvg-id="utsavbharat.uk" tvg-name="UK: Utsav Plus SD" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Utsav Plus SD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276555
+#EXTINF:-1 tvg-id="zeecinema.uk" tvg-name="UK: Zee Cinema" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Zee Cinema
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276554
+#EXTINF:-1 tvg-id="colorsgujarati.uk" tvg-name="Colors Gujarati SD " tvg-logo="" group-title="UK | ENTERTAINMENT",Colors Gujarati SD 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276553
+#EXTINF:-1 tvg-id="greataction.uk" tvg-name="UK: GREAT Action " tvg-logo="" group-title="UK | ENTERTAINMENT",UK: GREAT Action 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276552
+#EXTINF:-1 tvg-id="greatactionplus1.uk" tvg-name="UK: GREAT Action +1" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: GREAT Action +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276551
+#EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="UK: GREAT Classic" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: GREAT Classic
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276550
+#EXTINF:-1 tvg-id="greatclassicplus1.uk" tvg-name="UK: GREAT Classic +1" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: GREAT Classic +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276549
+#EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="UK: GREAT Movies" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: GREAT Movies
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276548
+#EXTINF:-1 tvg-id="greatmoviessplus1.uk" tvg-name="UK: GREAT Movies +1" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: GREAT Movies +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276547
+#EXTINF:-1 tvg-id="greattv.uk" tvg-name="UK: GREAT TV" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: GREAT TV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276546
+#EXTINF:-1 tvg-id="greattvplus1.uk" tvg-name="UK: GREAT TV +1" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: GREAT TV +1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276545
+#EXTINF:-1 tvg-id="thatstvgold.uk" tvg-name="UK: That's TV Gold" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: That's TV Gold
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276544
+#EXTINF:-1 tvg-id="" tvg-name="UK: Babenation" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Babenation
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276543
+#EXTINF:-1 tvg-id="kanshitv.uk" tvg-name="UK: Kanshi TV" tvg-logo="" group-title="UK | ENTERTAINMENT",UK: Kanshi TV
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/276542
+#EXTINF:-1 tvg-id="" tvg-name="DS-Big Brother Naija" tvg-logo="http://xplatinmedia.com:8080/images/f51891c0c54b35fe80904a894983d791.png" group-title="DSTV-Stream",DS-Big Brother Naija
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/258087
+#EXTINF:-1 tvg-id="SSZ" tvg-name="SS Blitz (FHD)" tvg-logo="http://xplatinmedia.com:8080/images/57baba9f5b53ff0752a4ea6ba965f379.png" group-title="DSTV-Stream",SS Blitz (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62950
+#EXTINF:-1 tvg-id="TS2" tvg-name="SS Premier League (FHD)" tvg-logo="http://xplatinmedia.com:8080/images/abf7c1dd49819958605fb239152b7e77.png" group-title="DSTV-Stream",SS Premier League (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62949
+#EXTINF:-1 tvg-id="SSH" tvg-name="SS LaLiga (FHD)" tvg-logo="" group-title="DSTV-Stream",SS LaLiga (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62948
+#EXTINF:-1 tvg-id="SH4" tvg-name="SS Grandstand (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Grandstand (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62947
+#EXTINF:-1 tvg-id="12H" tvg-name="SS Cricket" tvg-logo="http://xplatinmedia.com:8080/images/50ee4335a5d9f930e185ae47538fecf7.png" group-title="DSTV-Stream",SS Cricket
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62946
+#EXTINF:-1 tvg-id="MSH" tvg-name="SS Football (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Football (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62945
+#EXTINF:-1 tvg-id="" tvg-name="SS Football Plus (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Football Plus (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62944
+#EXTINF:-1 tvg-id="SH2" tvg-name="SS PSL (FHD)" tvg-logo="" group-title="DSTV-Stream",SS PSL (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62943
+#EXTINF:-1 tvg-id="A11" tvg-name="SS Rugby (FHD)" tvg-logo="http://xplatinmedia.com:8080/images/0bc99843b104cd81ae4a969f605f1a39.png" group-title="DSTV-Stream",SS Rugby (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62941
+#EXTINF:-1 tvg-id="EDH" tvg-name="SS Golf (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Golf (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62940
+#EXTINF:-1 tvg-id="E30" tvg-name="SS Motorsport (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Motorsport (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62939
+#EXTINF:-1 tvg-id="HD6" tvg-name="SS Variety 1 (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Variety 1 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62938
+#EXTINF:-1 tvg-id="HD5" tvg-name="SS Variety 2 (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Variety 2 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62937
+#EXTINF:-1 tvg-id="34S" tvg-name="SS Variety 3 (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Variety 3 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62936
+#EXTINF:-1 tvg-id="9HD" tvg-name="SS Variety 4 (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Variety 4 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62935
+#EXTINF:-1 tvg-id="" tvg-name="SS Action" tvg-logo="" group-title="DSTV-Stream",SS Action
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62934
+#EXTINF:-1 tvg-id="" tvg-name="SS Tennis (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Tennis (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62933
+#EXTINF:-1 tvg-id="" tvg-name="SS Liyu (FHD)" tvg-logo="" group-title="DSTV-Stream",SS Liyu (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62932
+#EXTINF:-1 tvg-id="" tvg-name="SS Liyu 2" tvg-logo="" group-title="DSTV-Stream",SS Liyu 2
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62931
+#EXTINF:-1 tvg-id="" tvg-name="Maximo 1 Champions (FHD)" tvg-logo="" group-title="DSTV-Stream",Maximo 1 Champions (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62930
+#EXTINF:-1 tvg-id="" tvg-name="Maximo 2 Champions (FHD)" tvg-logo="" group-title="DSTV-Stream",Maximo 2 Champions (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62929
+#EXTINF:-1 tvg-id="" tvg-name="ESPN (FHD)" tvg-logo="" group-title="DSTV-Stream",ESPN (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62927
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (FHD)" tvg-logo="" group-title="DSTV-Stream",ESPN 2 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62926
+#EXTINF:-1 tvg-id="" tvg-name="DS-Super Sport OTT (FHD)" tvg-logo="" group-title="DSTV-Stream",DS-Super Sport OTT (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62925
+#EXTINF:-1 tvg-id="" tvg-name="DS-Super Sport OTT 2 (FHD)" tvg-logo="" group-title="DSTV-Stream",DS-Super Sport OTT 2 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62924
+#EXTINF:-1 tvg-id="" tvg-name="DS-Super Sport OTT 3 (FHD)" tvg-logo="" group-title="DSTV-Stream",DS-Super Sport OTT 3 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62923
+#EXTINF:-1 tvg-id="" tvg-name="DS-Super Sport OTT 4 (FHD)" tvg-logo="" group-title="DSTV-Stream",DS-Super Sport OTT 4 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62922
+#EXTINF:-1 tvg-id="" tvg-name="DS-Super Sport OTT 5 (FHD)" tvg-logo="" group-title="DSTV-Stream",DS-Super Sport OTT 5 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62921
+#EXTINF:-1 tvg-id="" tvg-name="DS-Super Sport OTT 6 (FHD)" tvg-logo="" group-title="DSTV-Stream",DS-Super Sport OTT 6 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62920
+#EXTINF:-1 tvg-id="" tvg-name="DS-Super Sport OTT 7 (FHD)" tvg-logo="" group-title="DSTV-Stream",DS-Super Sport OTT 7 (FHD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62919
+#EXTINF:-1 tvg-id="" tvg-name="DS-SuperSport Play (HD)" tvg-logo="" group-title="DSTV-Stream",DS-SuperSport Play (HD)
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/62918
+#EXTINF:-1 tvg-id="" tvg-name="Via Play sports 1" tvg-logo="" group-title="UK | Amazon",Via Play sports 1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277959
+#EXTINF:-1 tvg-id="" tvg-name="Viaplay Sports 2" tvg-logo="" group-title="UK | Amazon",Viaplay Sports 2
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277958
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 0" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 0
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277977
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 1" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 1
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277976
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 2" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 2
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277975
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 3" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 3
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277974
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 4" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 4
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277973
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 5" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 5
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277972
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 6" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 6
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277971
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 7" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 7
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277970
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 8" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 8
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277969
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 9" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 9
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277968
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 10" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 10
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277967
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 11" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 11
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277966
+#EXTINF:-1 tvg-id="" tvg-name="Amazon UK Event 12" tvg-logo="" group-title="UK | Amazon",Amazon UK Event 12
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/277965
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 1 ENGLISH FHD" tvg-logo="https://cdn.bein.net/ca/wp-content/uploads/2017/02/beIN-SPORTS-H-Purple.png" group-title="AR | BEIN SPORTS",AR | BEIN SPORTS 1 ENGLISH FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/271983
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 2 ENGLISH FHD" tvg-logo="https://cdn.bein.net/ca/wp-content/uploads/2017/02/beIN-SPORTS-H-Purple.png" group-title="AR | BEIN SPORTS",AR | BEIN SPORTS 2 ENGLISH FHD
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/271982
+#EXTINF:-1 tvg-id="" tvg-name="| AR | beIN Sports 1 ENGLISH " tvg-logo="http://xplatinmedia.com:8080/images/3aff257a92d8aec877a0f5471b365e45.png" group-title="Arabic",| AR | beIN Sports 1 ENGLISH 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/123804
+#EXTINF:-1 tvg-id="" tvg-name="| AR | beIN Sports 2 ENGLISH " tvg-logo="http://xplatinmedia.com:8080/images/a733f8868555620556c53ff670fcb934.png" group-title="Arabic",| AR | beIN Sports 2 ENGLISH 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/123803
+#EXTINF:-1 tvg-id="" tvg-name="| AR | beIN Sports 3 ENGLISH " tvg-logo="http://xplatinmedia.com:8080/images/3cd654390ee5de1de9c71c3c0e44f9db.png" group-title="Arabic",| AR | beIN Sports 3 ENGLISH 
+http://kroozott.xyz:8080/GK24Uh4E3/01932766/123802
